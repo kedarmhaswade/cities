@@ -19,5 +19,5 @@ Some observations
 ----------------------------
 
 * The *time* command shows some result for this import:
-1. MySQL (server on nearest machine on the network): 
-2. SQLite (Local): 
+ 1. MySQL (server on nearest machine on the network): 
+ 2. SQLite (Local): 
