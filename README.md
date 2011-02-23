@@ -25,3 +25,5 @@ The *time* command shows some result for this import is:
  3. My understanding is that this (~9 minutes' wall-clock time for MySQL and that of ~12 minutes for local SQLite) is slow. What am I doing wrong?
  4. I understand that lot of time is spent in logging the generated SQL. But is that a factor?
  5. I see "SHOW VARIABLES like 'max_allowed_packet';" in case of MySQL. I believe that setting on my server is all right (its value in my.cnf is default = 16M). If not, what should that be?
+6. The generated database itself is correct, as far as I can tell, from my testing with rails console (e.g. using stuff like City.all, City.all.where("name=?", "Phoenix").
+
