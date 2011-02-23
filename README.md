@@ -9,7 +9,7 @@ Using activerecord-import
 ---
 After you clone this repository, just do the following:
 
-* Modify database.yml to your environment. (For SQLite, just move database.yml.sqlite to database.yml)
+* Modify database.yml to your environment. (For MySQL, just move database.yml.mysql to database.yml)
 * See db/seeds.rb. It has two methods: seed_from and import_from which I think seed the database correctly.
 * See how import_from loses the API goodies of Rails AR to use models to modify database.
 * But import_from is still way faster for such a trivial database of 33100 records. 
@@ -22,3 +22,6 @@ The *time* command shows some result for this import is:
 
  1. MySQL (server on nearest machine on the network): *rake db:setup  549.83s user 0.96s system 99% cpu 9:12.39 total*
  2. SQLite (Local): 
+ 3. My understanding is that this is slow. What am I doing wrong?
+ 4. I understand that lot of time is spent in logging the generated SQL. But is that a factor?
+ 5. I see "SHOW VARIABLES like 'max_allowed_packet';" in case of MySQL. I believe that setting on my server is all right (its value in my.cnf is default = 16M). If not, what should that be?
