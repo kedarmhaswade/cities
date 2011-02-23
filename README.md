@@ -1,5 +1,5 @@
 # Using activerecord-import
-
+---
 This is an example showing usage of Zach Dennis' activerecord-import gem.
 Instead of playing with tutorial databases, I decided to create a somewhat real database that can be of use to all. I came across http://sourceforge.net/projects/zips/files/#files. So, this is a simple Rails application (nothing there yet) with three models: City, Code and State. Some may argue if we need the models this way, but that's a separate thing.
 ---
