@@ -7,6 +7,7 @@ Using activerecord-import
 * So, I am going to ask Zach if he can take a look here.
 ---
 After you clone this repository, just do the following:
+
 * Modify database.yml to your environment.
 * See db/seeds.rb. It has two methods: seed_from and import_from which I think seed the database correctly.
 * See how import_from loses the API goodies of Rails AR to use models to modify database.
