@@ -20,5 +20,5 @@ Some observations
 
 The *time* command shows some result for this import is:
 
- 1. MySQL (server on nearest machine on the network): 
+ 1. MySQL (server on nearest machine on the network): *rake db:setup  549.83s user 0.96s system 99% cpu 9:12.39 total*
  2. SQLite (Local): 
