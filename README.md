@@ -1,7 +1,7 @@
 Using activerecord-import
 ===================
 
-* This is an example showing usage of Zach Dennis' activerecord-import gem. Instead of playing with tutorial databases, I decided to create a somewhat real database that can be of use to all. I came across http://sourceforge.net/projects/zips/files/#files. 
+* This is an example showing usage of Zach Dennis' activerecord-import gem. Instead of playing with tutorial databases, I decided to create a somewhat real database that can be of use to all. I came across [public zip-code database for US cities](http://sourceforge.net/projects/zips/files/#files). 
 * So, this is a simple Rails application (nothing there yet) with three models: [City](https://github.com/kedarmhaswade/cities/blob/master/app/models/city.rb), [Code](https://github.com/kedarmhaswade/cities/blob/master/app/models/code.rb) and [State](https://github.com/kedarmhaswade/cities/blob/master/app/models/state.rb). And here are the straightforward [migrations](https://github.com/kedarmhaswade/cities/tree/master/db/migrate). Some may argue if we need the models this way, but that's a separate thing. 
 * What I wanted to do was use Zach Dennis' [excellent activerecord-import gem](https://github.com/zdennis/activerecord-import/wiki/) to see if I can seed the database with the zips.csv I have created (modified from original at sf.net). 
 * Of course, the seeding should be fast. But more importantly, it should be correct. 
