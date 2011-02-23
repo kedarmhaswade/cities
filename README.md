@@ -20,8 +20,8 @@ Some observations
 
 The *time* command shows some result for this import is:
 
- 1. MySQL (server on nearest machine on the network): *rake db:setup  549.83s user 0.96s system 99% cpu 9:12.39 total*
- 2. SQLite (Local): 
- 3. My understanding is that this is slow. What am I doing wrong?
+ 1. MySQL (server on nearest machine on the network): **rake db:setup  549.83s user 0.96s system 99% cpu 9:12.39 total**. The server is a Quad-core Ubuntu, sitting next to my desktop.
+ 2. SQLite (Local): **rake db:setup  562.80s user 24.32s system 85% cpu 11:27.61 total**. This is on a Quad-core Ubuntu.
+ 3. My understanding is that this (~9 minutes' wall-clock time for MySQL and that of ~12 minutes for local SQLite) is slow. What am I doing wrong?
  4. I understand that lot of time is spent in logging the generated SQL. But is that a factor?
  5. I see "SHOW VARIABLES like 'max_allowed_packet';" in case of MySQL. I believe that setting on my server is all right (its value in my.cnf is default = 16M). If not, what should that be?
