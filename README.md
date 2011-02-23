@@ -18,6 +18,7 @@ After you clone this repository, just do the following:
 Some observations
 ----------------------------
 
-* The *time* command shows some result for this import:
+The *time* command shows some result for this import is:
+
  1. MySQL (server on nearest machine on the network): 
  2. SQLite (Local): 
