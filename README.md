@@ -8,4 +8,7 @@ Using activerecord-import
 ---
 After you clone this repository, just do the following:
 * Modify database.yml to your environment.
-* See db/seeds.rb. It has two methods: seed_from and import_from
+* See db/seeds.rb. It has two methods: seed_from and import_from which I think seed the database correctly.
+* See how import_from loses the API goodies of Rails AR to use models to modify database.
+* But import_from is still way faster for such a trivial database of 33100 records. 
+* My question to Zach is whether this is the right way to use activerecord-import gem. Of course, when I do this, I get *WARNING: Can't mass-assign protected attributes: id* all over, but I see no way around it.
