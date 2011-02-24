@@ -1,1285 +1,1285 @@
-zip code, state abbreviation, latitude, longitude, city, state
-35004, AL,  33.606379,  -86.50249, Moody, Alabama
-35005, AL,  33.592585,  -86.95969, Adamsville, Alabama
-35006, AL,  33.451714,  -87.23957, Adger, Alabama
-35007, AL,  33.232422,  -86.80871, Alabaster, Alabama
-35010, AL,  32.903432,  -85.92669, Alexander City, Alabama
-35014, AL,  33.355960,  -86.27720, Alpine, Alabama
-35016, AL,  34.323715,  -86.49278, Arab, Alabama
-35019, AL,  34.292540,  -86.63505, Baileyton, Alabama
-35020, AL,  33.405559,  -86.95141, Bessemer, Alabama
-35022, AL,  33.346817,  -86.95252, Bessemer, Alabama
-35023, AL,  33.443039,  -87.01930, Bessemer, Alabama
-35031, AL,  34.111425,  -86.53380, Blountsville, Alabama
-35033, AL,  33.952939,  -87.02889, Bremen, Alabama
-35034, AL,  32.915182,  -87.21488, Brent, Alabama
-35035, AL,  33.041166,  -86.95117, Brierfield, Alabama
-35036, AL,  33.638150,  -86.91956, Brookside, Alabama
-35040, AL,  33.107572,  -86.74996, Calera, Alabama
-35042, AL,  32.963486,  -87.13867, Centreville, Alabama
-35043, AL,  33.317093,  -86.66295, Chelsea, Alabama
-35044, AL,  33.268471,  -86.35582, Childersburg, Alabama
-35045, AL,  32.834501,  -86.64355, Clanton, Alabama
-35046, AL,  32.894351,  -86.56504, Clanton, Alabama
-35049, AL,  33.963435,  -86.59540, Cleveland, Alabama
-35051, AL,  33.201789,  -86.61584, Columbiana, Alabama
-35052, AL,  33.593115,  -86.40840, Cook Springs, Alabama
-35053, AL,  34.041061,  -87.06771, Crane Hill, Alabama
-35054, AL,  33.506012,  -86.31547, Cropwell, Alabama
-35055, AL,  34.167893,  -86.82506, Cullman, Alabama
-35057, AL,  34.139198,  -86.92449, Cullman, Alabama
-35058, AL,  34.223732,  -86.75620, Cullman, Alabama
-35060, AL,  33.559455,  -86.92968, Docena, Alabama
-35061, AL,  33.462541,  -86.95736, Dolomite, Alabama
-35062, AL,  33.731278,  -87.03610, Dora, Alabama
-35063, AL,  33.805216,  -87.00192, Empire, Alabama
-35064, AL,  33.476908,  -86.91684, Fairfield, Alabama
-35068, AL,  33.611297,  -86.81518, Fultondale, Alabama
-35070, AL,  34.011027,  -86.74877, Garden City, Alabama
-35071, AL,  33.679330,  -86.82060, Gardendale, Alabama
-35072, AL,  33.089342,  -86.04682, Goodwater, Alabama
-35073, AL,  33.640865,  -86.96885, Graysville, Alabama
-35074, AL,  33.225840,  -87.12515, Green Pond, Alabama
-35077, AL,  34.043589,  -86.80644, Hanceville, Alabama
-35078, AL,  33.337092,  -86.44085, Harpersville, Alabama
-35079, AL,  33.922179,  -86.76070, Hayden, Alabama
-35080, AL,  33.280625,  -86.88411, Helena, Alabama
-35082, AL,  33.116909,  -86.16980, Hollins, Alabama
-35083, AL,  34.198738,  -86.59814, Holly Pond, Alabama
-35085, AL,  32.965120,  -86.74405, Jemison, Alabama
-35087, AL,  34.303718,  -86.58323, Joppa, Alabama
-35089, AL,  32.941708,  -86.06098, Kellyton, Alabama
-35091, AL,  33.771090,  -86.80672, Kimberly, Alabama
-35094, AL,  33.530698,  -86.55506, Leeds, Alabama
-35096, AL,  33.605233,  -86.12079, Lincoln, Alabama
-35097, AL,  33.896526,  -86.63056, Locust Fork, Alabama
-35098, AL,  34.120006,  -87.05075, Logan, Alabama
-350HH, AL,  33.464476,  -86.57757, city-latitude-86.57757, Alabama
-350XX, AL,  32.978292,  -86.49926, city-latitude-86.49926, Alabama
-35111, AL,  33.279946,  -87.10148, Mc Calla, Alabama
-35112, AL,  33.681899,  -86.48237, Margaret, Alabama
-35114, AL,  33.225377,  -86.86443, Maylene, Alabama
-35115, AL,  33.114972,  -86.87380, Montevallo, Alabama
-35116, AL,  33.741370,  -86.78543, Morris, Alabama
-35117, AL,  33.665823,  -86.87111, Mount Olive, Alabama
-35118, AL,  33.529224,  -87.01546, Mulga, Alabama
-35119, AL,  33.640823,  -86.77574, New Castle, Alabama
-35120, AL,  33.668341,  -86.43641, Odenville, Alabama
-35121, AL,  33.944897,  -86.45813, Oneonta, Alabama
-35124, AL,  33.317471,  -86.78726, Pelham, Alabama
-35125, AL,  33.606663,  -86.28912, Pell City, Alabama
-35126, AL,  33.728568,  -86.66052, Pinson, Alabama
-35127, AL,  33.487675,  -86.97331, Pleasant Grove, Alabama
-35128, AL,  33.561597,  -86.30285, Pell City, Alabama
-35130, AL,  33.640629,  -87.11584, Quinton, Alabama
-35131, AL,  33.721107,  -86.17492, Ragland, Alabama
-35133, AL,  33.827521,  -86.60703, Remlap, Alabama
-35135, AL,  33.614465,  -86.20067, Riverside, Alabama
-35136, AL,  32.869700,  -86.28220, Rockford, Alabama
-35139, AL,  33.712204,  -86.97203, Sayre, Alabama
-35143, AL,  33.080971,  -86.53875, Shelby, Alabama
-35146, AL,  33.781133,  -86.45052, Springville, Alabama
-35147, AL,  33.397441,  -86.54218, Sterrett, Alabama
-35148, AL,  33.753474,  -87.04756, Sumiton, Alabama
-35149, AL,  33.252906,  -86.20523, Sycamore, Alabama
-35150, AL,  33.185782,  -86.25105, Sylacauga, Alabama
-35151, AL,  33.137515,  -86.33414, Sylacauga, Alabama
-35160, AL,  33.415449,  -86.10908, Talladega, Alabama
-35171, AL,  32.907616,  -86.71868, Thorsby, Alabama
-35172, AL,  33.823416,  -86.71537, Trafford, Alabama
-35173, AL,  33.623485,  -86.58546, Trussville, Alabama
-35175, AL,  34.426844,  -86.51841, Union Grove, Alabama
-35176, AL,  33.477600,  -86.51260, Vandiver, Alabama
-35178, AL,  33.414831,  -86.39250, Vincent, Alabama
-35179, AL,  34.256106,  -86.92158, Vinemont, Alabama
-35180, AL,  33.823430,  -86.81569, Warrior, Alabama
-35183, AL,  33.016558,  -86.33936, Weogufka, Alabama
-35184, AL,  33.118259,  -87.13548, West Blocton, Alabama
-35186, AL,  33.241272,  -86.50614, Wilsonville, Alabama
-35188, AL,  33.195743,  -87.16252, Woodstock, Alabama
-351HH, AL,  33.464016,  -86.57741, city-latitude-86.57741, Alabama
-351XX, AL,  32.953689,  -86.38354, city-latitude-86.38354, Alabama
-35203, AL,  33.519055,  -86.80970, Birmingham, Alabama
-35204, AL,  33.519855,  -86.83534, Birmingham, Alabama
-35205, AL,  33.497055,  -86.80570, Birmingham, Alabama
-35206, AL,  33.568573,  -86.72163, Birmingham, Alabama
-35207, AL,  33.560652,  -86.81897, Birmingham, Alabama
-35208, AL,  33.494545,  -86.88115, Birmingham, Alabama
-35209, AL,  33.468306,  -86.80814, Birmingham, Alabama
-35210, AL,  33.546051,  -86.66963, Birmingham, Alabama
-35211, AL,  33.479306,  -86.85878, Birmingham, Alabama
-35212, AL,  33.542004,  -86.74896, Birmingham, Alabama
-35213, AL,  33.507637,  -86.74161, Birmingham, Alabama
-35214, AL,  33.558772,  -86.89199, Birmingham, Alabama
-35215, AL,  33.636102,  -86.69506, Birmingham, Alabama
-35216, AL,  33.420558,  -86.78489, Birmingham, Alabama
-35217, AL,  33.590003,  -86.76708, Birmingham, Alabama
-35218, AL,  33.506456,  -86.89524, Birmingham, Alabama
-35221, AL,  33.450267,  -86.89650, Birmingham, Alabama
-35222, AL,  33.524254,  -86.77335, Birmingham, Alabama
-35223, AL,  33.488355,  -86.73402, Birmingham, Alabama
-35224, AL,  33.517706,  -86.93189, Birmingham, Alabama
-35226, AL,  33.406409,  -86.82950, Birmingham, Alabama
-35228, AL,  33.454262,  -86.92273, Birmingham, Alabama
-35233, AL,  33.509623,  -86.79970, Birmingham, Alabama
-35234, AL,  33.538504,  -86.80602, Birmingham, Alabama
-35235, AL,  33.609779,  -86.65507, Birmingham, Alabama
-35242, AL,  33.409582,  -86.69684, Birmingham, Alabama
-35243, AL,  33.437667,  -86.74586, Birmingham, Alabama
-35244, AL,  33.356981,  -86.81577, Birmingham, Alabama
-352HH, AL,  33.522499,  -86.64097, city-latitude-86.64097, Alabama
-35401, AL,  33.193818,  -87.56843, Tuscaloosa, Alabama
-35403, AL,  33.205073,  -87.52749, Tuscaloosa, Alabama
-35404, AL,  33.217168,  -87.49461, Tuscaloosa, Alabama
-35405, AL,  33.149246,  -87.52303, Tuscaloosa, Alabama
-35406, AL,  33.271585,  -87.50611, Tuscaloosa, Alabama
-35441, AL,  32.871514,  -87.73326, Akron, Alabama
-35442, AL,  33.095505,  -88.18653, Aliceville, Alabama
-35443, AL,  32.772835,  -88.03210, Boligee, Alabama
-35444, AL,  33.276411,  -87.30520, Brookwood, Alabama
-35446, AL,  33.207547,  -87.75054, Buhl, Alabama
-35447, AL,  33.254197,  -88.16866, Carrollton, Alabama
-35452, AL,  33.249332,  -87.67217, Coker, Alabama
-35453, AL,  33.170357,  -87.39889, Cottondale, Alabama
-35456, AL,  33.068806,  -87.43974, Duncanville, Alabama
-35457, AL,  33.301003,  -87.77187, Echola, Alabama
-35458, AL,  33.274081,  -87.80211, Elrod, Alabama
-35459, AL,  32.807280,  -88.31069, Emelle, Alabama
-35460, AL,  32.716468,  -88.15261, Epes, Alabama
-35461, AL,  33.421827,  -88.22013, Ethelsville, Alabama
-35462, AL,  32.931143,  -87.93837, Eutaw, Alabama
-35463, AL,  33.081289,  -87.68988, Fosters, Alabama
-35464, AL,  32.811241,  -88.16480, Gainesville, Alabama
-35466, AL,  33.299935,  -87.88368, Gordo, Alabama
-35469, AL,  33.012557,  -87.79793, Knoxville, Alabama
-35470, AL,  32.558949,  -88.12485, Livingston, Alabama
-35471, AL,  33.402134,  -88.14732, Mc Shan, Alabama
-35473, AL,  33.260567,  -87.58945, Northport, Alabama
-35474, AL,  32.962981,  -87.61717, Moundville, Alabama
-35475, AL,  33.388654,  -87.57913, Northport, Alabama
-35476, AL,  33.227736,  -87.58819, Northport, Alabama
-35477, AL,  32.915891,  -88.25764, Panola, Alabama
-35480, AL,  33.102981,  -87.83382, Ralph, Alabama
-35481, AL,  33.399471,  -88.02086, Reform, Alabama
-35490, AL,  33.197284,  -87.25156, Vance, Alabama
-354HH, AL,  33.163724,  -87.69916, city-latitude-87.69916, Alabama
-354XX, AL,  32.715432,  -87.97760, city-latitude-87.97760, Alabama
-35501, AL,  33.828412,  -87.27632, Jasper, Alabama
-35503, AL,  33.907546,  -87.29957, Jasper, Alabama
-35504, AL,  33.883566,  -87.21250, Jasper, Alabama
-35540, AL,  34.223057,  -87.17232, Addison, Alabama
-35541, AL,  34.059527,  -87.18344, Arley, Alabama
-35542, AL,  33.703682,  -87.67155, Bankston, Alabama
-35543, AL,  34.247898,  -87.72171, Bear Creek, Alabama
-35544, AL,  33.939291,  -88.01367, Beaverton, Alabama
-35545, AL,  33.641227,  -87.92911, Belk, Alabama
-35546, AL,  33.628719,  -87.58251, Berry, Alabama
-35548, AL,  34.043457,  -87.75940, Brilliant, Alabama
-35549, AL,  33.877980,  -87.52728, Carbon Hill, Alabama
-35550, AL,  33.754767,  -87.16587, Cordova, Alabama
-35552, AL,  34.061266,  -88.15462, Detroit, Alabama
-35553, AL,  34.146713,  -87.39317, Double Springs, Alabama
-35554, AL,  33.903299,  -87.65194, Eldridge, Alabama
-35555, AL,  33.681768,  -87.83026, Fayette, Alabama
-35559, AL,  33.909001,  -87.73186, Glen Allen, Alabama
-35563, AL,  33.972007,  -87.90302, Guin, Alabama
-35564, AL,  34.262751,  -87.83441, Hackleburg, Alabama
-35565, AL,  34.225425,  -87.61180, Haleyville, Alabama
-35570, AL,  34.149717,  -88.00384, Hamilton, Alabama
-35571, AL,  34.341907,  -87.94612, Hodges, Alabama
-35572, AL,  34.166780,  -87.26526, Houston, Alabama
-35574, AL,  33.586897,  -87.97695, Kennedy, Alabama
-35575, AL,  34.049426,  -87.57065, Lynn, Alabama
-35576, AL,  33.581135,  -88.10835, Millport, Alabama
-35578, AL,  33.971730,  -87.45746, Nauvoo, Alabama
-35579, AL,  33.673236,  -87.37169, Oakman, Alabama
-35580, AL,  33.701484,  -87.27103, Parrish, Alabama
-35581, AL,  34.343017,  -87.71277, Phil Campbell, Alabama
-35582, AL,  34.448328,  -88.12041, Red Bay, Alabama
-35584, AL,  33.823683,  -87.08699, Sipsey, Alabama
-35585, AL,  34.428048,  -87.80695, Spruce Pine, Alabama
-35586, AL,  33.864591,  -88.13117, Sulligent, Alabama
-35587, AL,  33.807412,  -87.44600, Townley, Alabama
-35592, AL,  33.752857,  -88.09960, Vernon, Alabama
-35593, AL,  34.369264,  -88.06745, Vina, Alabama
-35594, AL,  33.925454,  -87.78949, Winfield, Alabama
-355HH, AL,  34.100013,  -87.32392, city-latitude-87.32392, Alabama
-355XX, AL,  34.327834,  -87.44986, city-latitude-87.44986, Alabama
-35601, AL,  34.595332,  -86.98786, Decatur, Alabama
-35603, AL,  34.539072,  -86.95732, Decatur, Alabama
-35610, AL,  34.944113,  -87.24921, Anderson, Alabama
-35611, AL,  34.784028,  -87.02767, Athens, Alabama
-35613, AL,  34.808165,  -86.89623, Athens, Alabama
-35614, AL,  34.860179,  -87.06231, Athens, Alabama
-35616, AL,  34.748498,  -87.99860, Cherokee, Alabama
-35618, AL,  34.665033,  -87.30978, Courtland, Alabama
-35619, AL,  34.404908,  -87.12915, Danville, Alabama
-35620, AL,  34.930354,  -86.98090, Elkmont, Alabama
-35621, AL,  34.334972,  -86.71847, Eva, Alabama
-35622, AL,  34.340484,  -86.89176, Falkville, Alabama
-35630, AL,  34.817537,  -87.66253, Florence, Alabama
-35633, AL,  34.898897,  -87.77379, Florence, Alabama
-35634, AL,  34.888897,  -87.60731, Florence, Alabama
-35640, AL,  34.442184,  -86.94027, Hartselle, Alabama
-35643, AL,  34.648768,  -87.20394, Hillsboro, Alabama
-35645, AL,  34.904208,  -87.50776, Killen, Alabama
-35646, AL,  34.660322,  -87.53577, Leighton, Alabama
-35647, AL,  34.967939,  -87.11732, Lester, Alabama
-35648, AL,  34.966009,  -87.38262, Lexington, Alabama
-35649, AL,  34.625704,  -86.87840, Mooresville, Alabama
-35650, AL,  34.496476,  -87.27802, Moulton, Alabama
-35651, AL,  34.476048,  -87.48875, Mount Hope, Alabama
-35652, AL,  34.843309,  -87.29937, Rogersville, Alabama
-35653, AL,  34.519453,  -87.78077, Russellville, Alabama
-35654, AL,  34.516472,  -87.65265, Russellville, Alabama
-35660, AL,  34.759738,  -87.69317, Sheffield, Alabama
-35661, AL,  34.759947,  -87.62705, Muscle Shoals, Alabama
-35670, AL,  34.481885,  -86.75250, Somerville, Alabama
-35671, AL,  34.673730,  -86.94986, Tanner, Alabama
-35672, AL,  34.642480,  -87.41166, Town Creek, Alabama
-35673, AL,  34.581591,  -87.11884, Trinity, Alabama
-35674, AL,  34.700170,  -87.71420, Tuscumbia, Alabama
-35677, AL,  34.950648,  -88.02603, Waterloo, Alabama
-356HH, AL,  34.782510,  -87.31906, city-latitude-87.31906, Alabama
-356XX, AL,  34.339055,  -87.39720, city-latitude-87.39720, Alabama
-35739, AL,  34.972309,  -86.81352, Ardmore, Alabama
-35740, AL,  34.943871,  -85.73077, Bridgeport, Alabama
-35741, AL,  34.720813,  -86.48932, Brownsboro, Alabama
-35742, AL,  34.813577,  -86.80405, Capshaw, Alabama
-35744, AL,  34.610055,  -85.91553, Dutton, Alabama
-35745, AL,  34.929269,  -86.20726, Estillfork, Alabama
-35746, AL,  34.830058,  -85.97048, Fackler, Alabama
-35747, AL,  34.500216,  -86.27889, Grant, Alabama
-35748, AL,  34.710942,  -86.38995, Gurley, Alabama
-35749, AL,  34.815817,  -86.76003, Harvest, Alabama
-35750, AL,  34.948321,  -86.58988, Hazel Green, Alabama
-35751, AL,  34.815033,  -86.27258, Hollytree, Alabama
-35752, AL,  34.745259,  -85.94729, Hollywood, Alabama
-35754, AL,  34.520438,  -86.61977, Laceys Spring, Alabama
-35755, AL,  34.501178,  -86.11516, Langston, Alabama
-35756, AL,  34.630103,  -86.80159, Madison, Alabama
-35757, AL,  34.776638,  -86.75164, Madison, Alabama
-35758, AL,  34.715065,  -86.73964, Madison, Alabama
-35759, AL,  34.863236,  -86.56137, Meridianville, Alabama
-35760, AL,  34.541285,  -86.39852, New Hope, Alabama
-35761, AL,  34.902137,  -86.44272, New Market, Alabama
-35763, AL,  34.624533,  -86.47069, Owens Cross Roads, Alabama
-35764, AL,  34.694662,  -86.31816, Paint Rock, Alabama
-35765, AL,  34.695645,  -85.80484, Pisgah, Alabama
-35766, AL,  34.842944,  -86.23149, Princeton, Alabama
-35768, AL,  34.712327,  -86.08387, Scottsboro, Alabama
-35769, AL,  34.606124,  -86.06464, Scottsboro, Alabama
-35771, AL,  34.546397,  -85.98279, Section, Alabama
-35772, AL,  34.877531,  -85.84528, Stevenson, Alabama
-35773, AL,  34.902670,  -86.71367, Toney, Alabama
-35774, AL,  34.752369,  -86.22634, Trenton, Alabama
-35775, AL,  34.550375,  -86.70576, Valhermoso Springs, Alabama
-35776, AL,  34.664895,  -86.23363, Woodville, Alabama
-357HH, AL,  34.627130,  -86.12504, city-latitude-86.12504, Alabama
-357XX, AL,  34.634355,  -86.71051, city-latitude-86.71051, Alabama
-35801, AL,  34.728790,  -86.57316, Huntsville, Alabama
-35802, AL,  34.666041,  -86.55929, Huntsville, Alabama
-35803, AL,  34.603017,  -86.54293, Huntsville, Alabama
-35805, AL,  34.711291,  -86.61691, Huntsville, Alabama
-35806, AL,  34.748066,  -86.68317, Huntsville, Alabama
-35808, AL,  34.623075,  -86.66470, Huntsville, Alabama
-35810, AL,  34.776240,  -86.61339, Huntsville, Alabama
-35811, AL,  34.781080,  -86.53163, Huntsville, Alabama
-35816, AL,  34.739690,  -86.62464, Huntsville, Alabama
-35824, AL,  34.654126,  -86.73987, Huntsville, Alabama
-358HH, AL,  34.583728,  -86.59332, city-latitude-86.59332, Alabama
-358XX, AL,  34.646512,  -86.62850, city-latitude-86.62850, Alabama
-35901, AL,  34.016747,  -85.99282, Gadsden, Alabama
-35903, AL,  33.996698,  -85.92496, Gadsden, Alabama
-35904, AL,  34.032097,  -86.03530, Gadsden, Alabama
-35905, AL,  33.942031,  -85.93993, Gadsden, Alabama
-35906, AL,  33.943964,  -86.06154, Rainbow City, Alabama
-35907, AL,  33.906415,  -86.02665, Gadsden, Alabama
-35950, AL,  34.261878,  -86.22835, Albertville, Alabama
-35951, AL,  34.313014,  -86.19282, Albertville, Alabama
-35952, AL,  34.057496,  -86.32225, Altoona, Alabama
-35953, AL,  33.825516,  -86.24231, Ashville, Alabama
-35954, AL,  34.043263,  -86.08904, Attalla, Alabama
-35956, AL,  34.155318,  -86.13237, Boaz, Alabama
-35957, AL,  34.203621,  -86.17280, Boaz, Alabama
-35958, AL,  34.921827,  -85.63784, Bryant, Alabama
-35959, AL,  34.237989,  -85.61277, Cedar Bluff, Alabama
-35960, AL,  34.141067,  -85.60472, Centre, Alabama
-35961, AL,  34.279268,  -85.85634, Collinsville, Alabama
-35962, AL,  34.297717,  -86.03600, Crossville, Alabama
-35963, AL,  34.359766,  -85.92825, Dawson, Alabama
-35966, AL,  34.788306,  -85.67642, Flat Rock, Alabama
-35967, AL,  34.429472,  -85.71078, Fort Payne, Alabama
-35968, AL,  34.460537,  -85.76744, Fort Payne, Alabama
-35971, AL,  34.457657,  -85.92772, Fyffe, Alabama
-35972, AL,  33.987653,  -86.25523, Gallant, Alabama
-35973, AL,  34.333048,  -85.55172, Gaylesville, Alabama
-35974, AL,  34.361787,  -86.00980, Geraldine, Alabama
-35975, AL,  34.431683,  -86.06169, Groveoak, Alabama
-35976, AL,  34.350835,  -86.30475, Guntersville, Alabama
-35978, AL,  34.637589,  -85.73274, Henagar, Alabama
-35979, AL,  34.831242,  -85.61564, Higdon, Alabama
-35980, AL,  34.179277,  -86.36882, Horton, Alabama
-35981, AL,  34.717362,  -85.65353, Ider, Alabama
-35983, AL,  34.189256,  -85.76816, Leesburg, Alabama
-35984, AL,  34.557735,  -85.57510, Mentone, Alabama
-35986, AL,  34.500878,  -85.83763, Rainsville, Alabama
-35987, AL,  33.911700,  -86.24408, Steele, Alabama
-35988, AL,  34.568380,  -85.79646, Sylvania, Alabama
-35989, AL,  34.585200,  -85.65125, Valley Head, Alabama
-35990, AL,  34.066644,  -86.30438, Walnut Grove, Alabama
-359HH, AL,  34.068431,  -85.90095, city-latitude-85.90095, Alabama
-36003, AL,  32.439967,  -86.68801, Autaugaville, Alabama
-36005, AL,  31.859531,  -85.75558, Banks, Alabama
-36006, AL,  32.652790,  -86.71430, Billingsley, Alabama
-36009, AL,  31.579451,  -86.31880, Brantley, Alabama
-36010, AL,  31.678393,  -85.82425, Brundidge, Alabama
-36013, AL,  32.295289,  -85.99653, Cecil, Alabama
-36016, AL,  31.843675,  -85.43298, Clayton, Alabama
-36017, AL,  31.692576,  -85.55787, Clio, Alabama
-36020, AL,  32.496067,  -86.33073, Coosada, Alabama
-36022, AL,  32.612619,  -86.39497, Deatsville, Alabama
-36024, AL,  32.697561,  -86.01600, Eclectic, Alabama
-36025, AL,  32.538878,  -86.33358, Elmore, Alabama
-36026, AL,  32.776549,  -86.04770, Equality, Alabama
-36027, AL,  31.876168,  -85.17362, Eufaula, Alabama
-36028, AL,  31.474803,  -86.37618, Dozier, Alabama
-36029, AL,  32.214818,  -85.93281, Fitzpatrick, Alabama
-36030, AL,  31.847964,  -86.86441, Forest Home, Alabama
-36031, AL,  32.251957,  -85.73589, Fort Davis, Alabama
-36032, AL,  31.984289,  -86.57087, Fort Deposit, Alabama
-36033, AL,  31.655458,  -86.76737, Georgiana, Alabama
-36034, AL,  31.637696,  -86.13578, Glenwood, Alabama
-36035, AL,  31.756986,  -86.14489, Goshen, Alabama
-36036, AL,  31.985456,  -86.15741, Grady, Alabama
-36037, AL,  31.800700,  -86.60591, Greenville, Alabama
-36039, AL,  32.280320,  -85.81979, Hardaway, Alabama
-36040, AL,  32.182677,  -86.66877, Hayneville, Alabama
-36041, AL,  31.913456,  -86.30083, Highland Home, Alabama
-36042, AL,  31.860078,  -86.44607, Honoraville, Alabama
-36043, AL,  32.223810,  -86.39798, Hope Hull, Alabama
-36046, AL,  32.025367,  -86.34182, Lapine, Alabama
-36047, AL,  32.070433,  -86.49437, Letohatchee, Alabama
-36048, AL,  31.776734,  -85.58908, Louisville, Alabama
-36049, AL,  31.737407,  -86.26946, Luverne, Alabama
-36051, AL,  32.682598,  -86.47451, Marbury, Alabama
-36052, AL,  32.171705,  -86.06661, Mathews, Alabama
-36053, AL,  32.011153,  -85.46827, Midway, Alabama
-36054, AL,  32.492335,  -86.36692, Millbrook, Alabama
-36064, AL,  32.318234,  -86.09585, Pike Road, Alabama
-36065, AL,  32.042813,  -86.05140, Pine Level, Alabama
-36066, AL,  32.459435,  -86.42746, Prattville, Alabama
-36067, AL,  32.488113,  -86.52962, Prattville, Alabama
-36069, AL,  32.079550,  -86.14911, Ramer, Alabama
-36071, AL,  31.708837,  -86.38617, Rutledge, Alabama
-36075, AL,  32.399994,  -85.92370, Shorter, Alabama
-36078, AL,  32.553036,  -85.91360, Tallassee, Alabama
-36079, AL,  31.780847,  -85.99200, Troy, Alabama
-36080, AL,  32.691057,  -86.29429, Titus, Alabama
-36081, AL,  31.852825,  -85.92314, Troy, Alabama
-36083, AL,  32.427987,  -85.69542, Tuskegee, Alabama
-36088, AL,  32.419862,  -85.71699, Tuskegee Institute, Alabama
-36089, AL,  32.145437,  -85.70998, Union Springs, Alabama
-36091, AL,  32.759543,  -86.51111, Verbena, Alabama
-36092, AL,  32.592889,  -86.21902, Wetumpka, Alabama
-36093, AL,  32.505741,  -86.15644, Wetumpka, Alabama
-360HH, AL,  32.451844,  -85.87781, city-latitude-85.87781, Alabama
-360XX, AL,  31.728209,  -86.53667, city-latitude-86.53667, Alabama
-36104, AL,  32.377509,  -86.31068, Montgomery, Alabama
-36105, AL,  32.302340,  -86.30504, Montgomery, Alabama
-36106, AL,  32.354888,  -86.27161, Montgomery, Alabama
-36107, AL,  32.378138,  -86.27905, Montgomery, Alabama
-36108, AL,  32.353188,  -86.36037, Montgomery, Alabama
-36109, AL,  32.386088,  -86.24511, Montgomery, Alabama
-36110, AL,  32.426372,  -86.27007, Montgomery, Alabama
-36111, AL,  32.338989,  -86.27316, Montgomery, Alabama
-36113, AL,  32.359588,  -86.34434, Montgomery, Alabama
-36115, AL,  32.404754,  -86.24963, Montgomery, Alabama
-36116, AL,  32.313240,  -86.23672, Montgomery, Alabama
-36117, AL,  32.373714,  -86.16443, Montgomery, Alabama
-361HH, AL,  32.384675,  -86.32983, city-latitude-86.32983, Alabama
-36201, AL,  33.658803,  -85.85178, Anniston, Alabama
-36203, AL,  33.591301,  -85.83571, Oxford, Alabama
-36205, AL,  33.711314,  -85.78527, Anniston, Alabama
-36206, AL,  33.719701,  -85.83166, Anniston, Alabama
-36207, AL,  33.651673,  -85.75895, Anniston, Alabama
-36250, AL,  33.766057,  -85.88969, Alexandria, Alabama
-36251, AL,  33.243964,  -85.84503, Ashland, Alabama
-36255, AL,  33.185338,  -85.72548, Cragford, Alabama
-36256, AL,  33.032076,  -85.69962, Daviston, Alabama
-36258, AL,  33.473789,  -85.71409, Delta, Alabama
-36260, AL,  33.593189,  -85.99551, Eastaboga, Alabama
-36262, AL,  33.761052,  -85.45227, Fruithurst, Alabama
-36263, AL,  33.469709,  -85.36139, Graham, Alabama
-36264, AL,  33.613541,  -85.55457, Heflin, Alabama
-36265, AL,  33.824496,  -85.77037, Jacksonville, Alabama
-36266, AL,  33.328958,  -85.72073, Lineville, Alabama
-36267, AL,  33.200704,  -85.94159, Millerville, Alabama
-36268, AL,  33.511790,  -85.94756, Munford, Alabama
-36269, AL,  33.740158,  -85.37813, Muscadine, Alabama
-36270, AL,  33.423088,  -85.47202, Newell, Alabama
-36271, AL,  33.799330,  -86.02860, Ohatchee, Alabama
-36272, AL,  33.948018,  -85.61491, Piedmont, Alabama
-36273, AL,  33.535491,  -85.36312, Ranburne, Alabama
-36274, AL,  33.159848,  -85.36865, Roanoke, Alabama
-36276, AL,  33.142612,  -85.57418, Wadley, Alabama
-36277, AL,  33.754308,  -85.81991, Weaver, Alabama
-36278, AL,  33.338853,  -85.50900, Wedowee, Alabama
-36279, AL,  33.862349,  -85.89512, Wellington, Alabama
-36280, AL,  33.366136,  -85.36501, Woodland, Alabama
-362HH, AL,  33.279589,  -85.61856, city-latitude-85.61856, Alabama
-362XX, AL,  33.711116,  -85.88805, city-latitude-85.88805, Alabama
-36301, AL,  31.180076,  -85.40450, Dothan, Alabama
-36303, AL,  31.249042,  -85.40605, Dothan, Alabama
-36305, AL,  31.214832,  -85.47402, Dothan, Alabama
-36310, AL,  31.599256,  -85.20940, Abbeville, Alabama
-36311, AL,  31.589226,  -85.69097, Ariton, Alabama
-36312, AL,  31.178688,  -85.24290, Ashford, Alabama
-36313, AL,  31.174249,  -85.79562, Bellwood, Alabama
-36314, AL,  31.013308,  -85.75742, Black, Alabama
-36316, AL,  31.172641,  -85.86482, Chancellor, Alabama
-36317, AL,  31.645125,  -85.37812, Clopton, Alabama
-36318, AL,  31.167820,  -85.94917, Coffee Springs, Alabama
-36319, AL,  31.312599,  -85.14456, Columbia, Alabama
-36320, AL,  31.051843,  -85.31561, Cottonwood, Alabama
-36322, AL,  31.284499,  -85.72111, Daleville, Alabama
-36323, AL,  31.428389,  -86.07271, Elba, Alabama
-36330, AL,  31.325790,  -85.84117, Enterprise, Alabama
-36340, AL,  31.043454,  -85.87941, Geneva, Alabama
-36343, AL,  31.087556,  -85.13116, Gordon, Alabama
-36344, AL,  31.096994,  -85.70010, Hartford, Alabama
-36345, AL,  31.381263,  -85.31490, Headland, Alabama
-36346, AL,  31.567171,  -85.93102, Jack, Alabama
-36350, AL,  31.319083,  -85.48718, Midland City, Alabama
-36351, AL,  31.406536,  -85.91750, New Brockton, Alabama
-36352, AL,  31.262955,  -85.60789, Newton, Alabama
-36353, AL,  31.453069,  -85.36241, Newville, Alabama
-36360, AL,  31.447119,  -85.62908, Ozark, Alabama
-36362, AL,  31.352676,  -85.70509, Fort Rucker, Alabama
-36370, AL,  31.141962,  -85.15675, Pansey, Alabama
-36371, AL,  31.312010,  -85.54722, Pinckard, Alabama
-36373, AL,  31.521510,  -85.11460, Shorterville, Alabama
-36374, AL,  31.569287,  -85.48581, Skipperville, Alabama
-36375, AL,  31.096836,  -85.54403, Slocomb, Alabama
-36376, AL,  31.243717,  -85.27681, Webb, Alabama
-363HH, AL,  31.083599,  -85.83201, city-latitude-85.83201, Alabama
-36401, AL,  31.461019,  -86.96271, Evergreen, Alabama
-36420, AL,  31.279043,  -86.48699, Andalusia, Alabama
-36425, AL,  31.737883,  -87.17442, Beatrice, Alabama
-36426, AL,  31.129008,  -87.10173, Brewton, Alabama
-36432, AL,  31.291038,  -87.03109, Castleberry, Alabama
-36435, AL,  31.874887,  -87.43110, Coy, Alabama
-36436, AL,  31.756797,  -87.64500, Dickinson, Alabama
-36441, AL,  31.023139,  -87.23957, Flomaton, Alabama
-36442, AL,  31.042071,  -86.34347, Florala, Alabama
-36444, AL,  31.638570,  -87.46772, Franklin, Alabama
-36445, AL,  31.429994,  -87.41631, Frisco City, Alabama
-36446, AL,  31.786539,  -87.72688, Fulton, Alabama
-36451, AL,  31.704736,  -87.77773, Grove Hill, Alabama
-36453, AL,  31.203287,  -86.15169, Kinston, Alabama
-36455, AL,  31.011435,  -86.35065, Lockhart, Alabama
-36456, AL,  31.546680,  -86.77355, Mc Kenzie, Alabama
-36460, AL,  31.509039,  -87.32416, Monroeville, Alabama
-36467, AL,  31.280048,  -86.25484, Opp, Alabama
-36470, AL,  31.514262,  -87.50401, Perdue Hill, Alabama
-36471, AL,  31.612646,  -87.24886, Peterman, Alabama
-36473, AL,  31.306814,  -87.20327, Range, Alabama
-36474, AL,  31.416059,  -86.61397, Red Level, Alabama
-36475, AL,  31.410205,  -87.22474, Repton, Alabama
-36476, AL,  31.356774,  -86.54879, River Falls, Alabama
-36477, AL,  31.091359,  -86.04782, Samson, Alabama
-36480, AL,  31.320897,  -87.59607, Uriah, Alabama
-36481, AL,  31.821448,  -87.34313, Vredenburgh, Alabama
-36482, AL,  31.614138,  -87.63373, Whatley, Alabama
-36483, AL,  31.031830,  -86.70207, Wing, Alabama
-364HH, AL,  31.177782,  -86.76855, city-latitude-86.76855, Alabama
-364XX, AL,  31.238967,  -87.02213, city-latitude-87.02213, Alabama
-36501, AL,  31.463968,  -87.73883, Alma, Alabama
-36502, AL,  31.090528,  -87.49715, Atmore, Alabama
-36505, AL,  30.930065,  -88.00103, Axis, Alabama
-36507, AL,  30.875697,  -87.76592, Bay Minette, Alabama
-36509, AL,  30.401384,  -88.24671, Bayou La Batre, Alabama
-36511, AL,  30.312316,  -87.73468, Bon Secour, Alabama
-36513, AL,  31.161966,  -87.99588, Calvert, Alabama
-36515, AL,  31.375467,  -87.78506, Carlton, Alabama
-36518, AL,  31.463383,  -88.26781, Chatom, Alabama
-36521, AL,  30.965694,  -88.18697, Chunchula, Alabama
-36522, AL,  31.075300,  -88.26330, Citronelle, Alabama
-36523, AL,  30.383724,  -88.18466, Coden, Alabama
-36524, AL,  31.790834,  -88.06933, Coffeeville, Alabama
-36525, AL,  30.886317,  -88.02806, Creola, Alabama
-36526, AL,  30.620594,  -87.88312, Daphne, Alabama
-36527, AL,  30.684873,  -87.89723, Spanish Fort, Alabama
-36528, AL,  30.250825,  -88.11819, Dauphin Island, Alabama
-36529, AL,  31.309194,  -88.26036, Deer Park, Alabama
-36530, AL,  30.377657,  -87.56159, Elberta, Alabama
-36532, AL,  30.512458,  -87.88559, Fairhope, Alabama
-36535, AL,  30.396876,  -87.69616, Foley, Alabama
-36538, AL,  31.646087,  -88.14188, Frankville, Alabama
-36539, AL,  31.375241,  -88.41557, Fruitdale, Alabama
-36540, AL,  31.453836,  -87.64373, Gainestown, Alabama
-36541, AL,  30.487783,  -88.32722, Grand Bay, Alabama
-36542, AL,  30.262276,  -87.72784, Gulf Shores, Alabama
-36544, AL,  30.479171,  -88.23793, Irvington, Alabama
-36545, AL,  31.508231,  -87.88346, Jackson, Alabama
-36548, AL,  31.495691,  -87.96260, Leroy, Alabama
-36549, AL,  30.393983,  -87.45664, Lillian, Alabama
-36550, AL,  31.242801,  -87.76099, Little River, Alabama
-36551, AL,  30.631600,  -87.75299, Loxley, Alabama
-36553, AL,  31.234589,  -88.08089, Mc Intosh, Alabama
-36556, AL,  31.213801,  -87.96228, Malcolm, Alabama
-36558, AL,  31.629578,  -88.34737, Millry, Alabama
-36559, AL,  30.564701,  -87.90216, Montrose, Alabama
-36560, AL,  31.088463,  -88.03007, Mount Vernon, Alabama
-36561, AL,  30.291503,  -87.56198, Orange Beach, Alabama
-36562, AL,  31.021335,  -87.64417, Perdido, Alabama
-36564, AL,  30.471767,  -87.91874, Point Clear, Alabama
-36567, AL,  30.582200,  -87.63936, Robertsdale, Alabama
-36569, AL,  31.529488,  -88.06349, Saint Stephens, Alabama
-36570, AL,  31.613745,  -88.01381, Salitpa, Alabama
-36571, AL,  30.831636,  -88.09386, Saraland, Alabama
-36572, AL,  30.857435,  -88.05414, Satsuma, Alabama
-36574, AL,  30.511685,  -87.46860, Seminole, Alabama
-36575, AL,  30.766350,  -88.26553, Semmes, Alabama
-36576, AL,  30.540664,  -87.75490, Silverhill, Alabama
-36577, AL,  30.668757,  -87.93971, Spanish Fort, Alabama
-36578, AL,  30.744745,  -87.81486, Stapleton, Alabama
-36579, AL,  31.126122,  -87.80317, Stockton, Alabama
-36580, AL,  30.485351,  -87.71292, Summerdale, Alabama
-36581, AL,  31.373999,  -87.99791, Sunflower, Alabama
-36582, AL,  30.533744,  -88.16865, Theodore, Alabama
-36583, AL,  31.352090,  -88.20879, Tibbie, Alabama
-36584, AL,  31.202048,  -88.38071, Vinegar Bend, Alabama
-36585, AL,  31.381220,  -88.02433, Wagarville, Alabama
-36587, AL,  30.828988,  -88.35079, Wilmer, Alabama
-365HH, AL,  30.659890,  -87.93091, city-latitude-87.93091, Alabama
-365XX, AL,  31.219771,  -87.92633, city-latitude-87.92633, Alabama
-36602, AL,  30.693389,  -88.04416, Mobile, Alabama
-36603, AL,  30.688457,  -88.05341, Mobile, Alabama
-36604, AL,  30.681640,  -88.06676, Mobile, Alabama
-36605, AL,  30.641191,  -88.08222, Mobile, Alabama
-36606, AL,  30.674057,  -88.10249, Mobile, Alabama
-36607, AL,  30.699539,  -88.10474, Mobile, Alabama
-36608, AL,  30.690440,  -88.19701, Mobile, Alabama
-36609, AL,  30.662735,  -88.16255, Mobile, Alabama
-36610, AL,  30.737405,  -88.08201, Mobile, Alabama
-36611, AL,  30.764938,  -88.08505, Mobile, Alabama
-36612, AL,  30.753155,  -88.11116, Mobile, Alabama
-36613, AL,  30.795637,  -88.15770, Eight Mile, Alabama
-36617, AL,  30.717539,  -88.09609, Mobile, Alabama
-36618, AL,  30.728488,  -88.16845, Mobile, Alabama
-36619, AL,  30.586808,  -88.18552, Mobile, Alabama
-36693, AL,  30.630441,  -88.15397, Mobile, Alabama
-36695, AL,  30.646415,  -88.23657, Mobile, Alabama
-366HH, AL,  30.629458,  -88.09946, city-latitude-88.09946, Alabama
-36701, AL,  32.429066,  -87.03809, Selma, Alabama
-36703, AL,  32.419846,  -86.97783, Selma, Alabama
-36720, AL,  32.170653,  -87.36217, Alberta, Alabama
-36722, AL,  32.079894,  -87.57551, Arlington, Alabama
-36723, AL,  32.088460,  -87.28018, Boykin, Alabama
-36726, AL,  32.008444,  -87.25911, Camden, Alabama
-36727, AL,  31.910694,  -88.03148, Campbell, Alabama
-36728, AL,  32.147166,  -87.45675, Catherine, Alabama
-36732, AL,  32.495484,  -87.84521, Demopolis, Alabama
-36736, AL,  32.069338,  -87.77893, Dixons Mills, Alabama
-36738, AL,  32.417860,  -87.62729, Faunsdale, Alabama
-36740, AL,  32.629096,  -87.84004, Forkland, Alabama
-36742, AL,  32.454007,  -87.75003, Gallion, Alabama
-36744, AL,  32.703529,  -87.60177, Greensboro, Alabama
-36748, AL,  32.297441,  -87.78812, Linden, Alabama
-36749, AL,  32.548960,  -86.87897, Jones, Alabama
-36750, AL,  32.789726,  -86.84960, Maplesville, Alabama
-36751, AL,  31.833493,  -87.55005, Lower Peach Tree, Alabama
-36752, AL,  32.322266,  -86.64395, Lowndesboro, Alabama
-36754, AL,  32.140637,  -87.68010, Magnolia, Alabama
-36756, AL,  32.665966,  -87.33889, Marion, Alabama
-36758, AL,  32.639376,  -86.91034, Plantersville, Alabama
-36759, AL,  32.420138,  -87.27857, Marion Junction, Alabama
-36761, AL,  32.080532,  -86.95524, Minter, Alabama
-36763, AL,  32.249718,  -87.96332, Myrtlewood, Alabama
-36765, AL,  32.594818,  -87.53543, Newbern, Alabama
-36767, AL,  32.291650,  -87.23168, Orrville, Alabama
-36768, AL,  31.901412,  -86.95505, Pine Apple, Alabama
-36769, AL,  31.990494,  -87.55222, Pine Hill, Alabama
-36773, AL,  32.291429,  -87.39972, Safford, Alabama
-36775, AL,  32.213369,  -86.98313, Sardis, Alabama
-36776, AL,  32.739091,  -87.74170, Sawyerville, Alabama
-36779, AL,  32.701812,  -87.17423, Sprott, Alabama
-36782, AL,  32.114999,  -87.90187, Sweet Water, Alabama
-36783, AL,  32.263473,  -87.60214, Thomaston, Alabama
-36784, AL,  31.936003,  -87.77013, Thomasville, Alabama
-36785, AL,  32.282192,  -86.82160, Tyler, Alabama
-36786, AL,  32.440868,  -87.49657, Uniontown, Alabama
-36790, AL,  32.731866,  -86.90004, Stanton, Alabama
-36792, AL,  32.917983,  -86.89046, Randolph, Alabama
-36793, AL,  32.838805,  -86.99911, Lawley, Alabama
-367HH, AL,  32.164757,  -87.38532, city-latitude-87.38532, Alabama
-367XX, AL,  32.231245,  -87.36672, city-latitude-87.36672, Alabama
-36801, AL,  32.660497,  -85.39917, Opelika, Alabama
-36804, AL,  32.556296,  -85.33465, Opelika, Alabama
-36830, AL,  32.577135,  -85.47282, Auburn, Alabama
-36832, AL,  32.589553,  -85.53991, Auburn, Alabama
-36849, AL,  32.602434,  -85.48580, Auburn University, Alabama
-36850, AL,  32.799998,  -85.64621, Camp Hill, Alabama
-36852, AL,  32.745844,  -85.28076, Cusseta, Alabama
-36853, AL,  32.787441,  -85.79955, Dadeville, Alabama
-36854, AL,  32.777662,  -85.17623, Valley, Alabama
-36855, AL,  33.046756,  -85.30102, Five Points, Alabama
-36856, AL,  32.282085,  -84.98389, Fort Mitchell, Alabama
-36858, AL,  32.297792,  -85.31205, Hatchechubbee, Alabama
-36860, AL,  32.237339,  -85.41029, Hurtsboro, Alabama
-36861, AL,  32.862333,  -85.84588, Jacksons Gap, Alabama
-36862, AL,  32.903922,  -85.42905, Lafayette, Alabama
-36863, AL,  32.871306,  -85.21314, Lanett, Alabama
-36866, AL,  32.551474,  -85.69859, Notasulga, Alabama
-36867, AL,  32.492304,  -85.01943, Phenix City, Alabama
-36869, AL,  32.433065,  -85.04512, Phenix City, Alabama
-36870, AL,  32.484671,  -85.07520, Phenix City, Alabama
-36871, AL,  32.168270,  -85.11621, Pittsview, Alabama
-36874, AL,  32.587751,  -85.18539, Salem, Alabama
-36875, AL,  32.315128,  -85.11348, Seale, Alabama
-36877, AL,  32.545138,  -85.09212, Smiths Station, Alabama
-36879, AL,  32.733511,  -85.55322, Waverly, Alabama
-368HH, AL,  32.737220,  -85.74820, city-latitude-85.74820, Alabama
-36901, AL,  32.451618,  -88.13100, Bellamy, Alabama
-36904, AL,  32.097363,  -88.22647, Butler, Alabama
-36907, AL,  32.403275,  -88.36252, Cuba, Alabama
-36908, AL,  31.891177,  -88.28508, Gilbertown, Alabama
-36910, AL,  32.220752,  -88.15471, Jachin, Alabama
-36912, AL,  32.227905,  -88.32468, Lisman, Alabama
-36915, AL,  31.970871,  -88.34902, Needham, Alabama
-36916, AL,  32.209381,  -88.05965, Pennington, Alabama
-36919, AL,  31.779344,  -88.30045, Silas, Alabama
-36921, AL,  31.969580,  -88.18661, Toxey, Alabama
-36922, AL,  32.304709,  -88.17081, Ward, Alabama
-36925, AL,  32.487726,  -88.26790, York, Alabama
-369HH, AL,  32.069482,  -88.08096, city-latitude-88.08096, Alabama
-369XX, AL,  32.361096,  -88.14029, city-latitude-88.14029, Alabama
-38852, AL,  34.803864,  -88.10205, Iuka, Alabama
-99501, AK,  61.216799, -149.87828, Anchorage, Alaska
-99502, AK,  61.153693, -149.95932, Anchorage, Alaska
-99503, AK,  61.190260, -149.89341, Anchorage, Alaska
-99504, AK,  61.204466, -149.74633, Anchorage, Alaska
-99505, AK,  61.261518, -149.66336, Fort, Alaska
-99506, AK,  61.224384, -149.77461, Elmendorf, Alaska
-99507, AK,  61.154834, -149.82865, Anchorage, Alaska
-99508, AK,  61.203953, -149.81440, Anchorage, Alaska
-99513, AK,  61.214877, -149.88617, Anchorage, Alaska
-99515, AK,  61.122943, -149.88852, Anchorage, Alaska
-99516, AK,  61.101142, -149.77311, Anchorage, Alaska
-99517, AK,  61.188276, -149.93438, Anchorage, Alaska
-99518, AK,  61.156565, -149.88335, Anchorage, Alaska
-99540, AK,  60.973454, -149.45830, Indian, Alaska
-99546, AK,  51.879570, -176.63675, Adak, Alaska
-99547, AK,  52.227555, -174.19628, Atka, Alaska
-99548, AK,  56.252156, -158.74638, Chignik Lake, Alaska
-99549, AK,  56.946256, -158.62832, Port, Alaska
-99550, AK,  57.867089, -152.88568, Port Lions, Alaska
-99551, AK,  60.889810, -161.42393, Akiachak, Alaska
-99552, AK,  60.911865, -161.22577, Akiak, Alaska
-99553, AK,  54.098693, -165.88176, Akutan, Alaska
-99554, AK,  62.683391, -164.65455, Alakanuk, Alaska
-99555, AK,  59.269535, -158.62458, Aleknagik, Alaska
-99556, AK,  59.798363, -151.73566, Nikolaevsk, Alaska
-99557, AK,  61.570981, -158.88072, Chuathbaluk, Alaska
-99558, AK,  62.632905, -160.21336, Anvik, Alaska
-99559, AK,  60.766603, -161.88006, Atmautluak, Alaska
-99561, AK,  60.143735, -164.25283, Chefornak, Alaska
-99563, AK,  61.527953, -165.57029, Chevak, Alaska
-99564, AK,  56.298297, -158.40440, Chignik, Alaska
-99565, AK,  56.307535, -158.53502, Chignik, Alaska
-99566, AK,  61.555701, -144.14233, Chitina, Alaska
-99567, AK,  61.413717, -149.42644, Chugiak, Alaska
-99568, AK,  60.234580, -151.39340, Clam, Alaska
-99569, AK,  58.832560, -158.55254, Clarks, Alaska
-99571, AK,  55.315003, -162.63400, Nelson, Alaska
-99572, AK,  60.484146, -149.78153, Cooper, Alaska
-99573, AK,  61.832347, -145.23080, Copper, Alaska
-99574, AK,  60.474512, -145.40256, Chenega, Alaska
-99575, AK,  61.859821, -158.12888, Crooked, Alaska
-99576, AK,  59.068709, -158.44407, Koliganek, Alaska
-99577, AK,  61.310222, -149.51689, Eagle, Alaska
-99578, AK,  60.214239, -162.03799, Eek, Alaska
-99579, AK,  58.217621, -157.34841, Egegik, Alaska
-99580, AK,  59.360233, -157.48380, Ekwok, Alaska
-99581, AK,  62.729019, -164.29917, Emmonak, Alaska
-99583, AK,  54.849999, -163.42011, False, Alaska
-99585, AK,  61.878073, -162.08481, Marshall, Alaska
-99586, AK,  62.667589, -144.49059, Slana, Alaska
-99587, AK,  60.952049, -149.08380, Girdwood, Alaska
-99588, AK,  62.120420, -145.58592, Glennallen, Alaska
-99589, AK,  59.125873, -161.59999, Goodnews, Alaska
-99590, AK,  62.908130, -160.06675, Grayling, Alaska
-99591, AK,  56.605546, -169.55958, Saint, Alaska
-995HH, AK,  61.198519, -146.93673, city-latitude-146.93673, Alaska
-995XX, AK,  60.003158, -156.08723, city-latitude-156.08723, Alaska
-99602, AK,  62.198048, -159.77341, Holy, Alaska
-99603, AK,  59.665074, -151.44930, Port, Alaska
-99604, AK,  61.528980, -166.09619, Hooper, Alaska
-99605, AK,  60.911003, -149.62708, Hope, Alaska
-99606, AK,  59.748806, -154.81240, Kokhanok, Alaska
-99607, AK,  61.535511, -160.30165, Kalskag, Alaska
-99608, AK,  57.578081, -154.36255, Karluk, Alaska
-99609, AK,  60.873178, -162.51960, Kasigluk, Alaska
-99610, AK,  60.318451, -151.28948, Kasilof, Alaska
-99611, AK,  60.587598, -151.23355, Kenai, Alaska
-99612, AK,  55.063736, -162.31240, King, Alaska
-99613, AK,  58.687446, -156.64007, Igiugig, Alaska
-99614, AK,  59.937619, -164.04392, Kipnuk, Alaska
-99615, AK,  57.746630, -152.51142, Akhiok, Alaska
-99620, AK,  62.945434, -163.76142, Kotlik, Alaska
-99621, AK,  60.810509, -161.42190, Kwethluk, Alaska
-99622, AK,  59.870295, -163.16752, Kwigillingok, Alaska
-99624, AK,  57.529161, -154.00286, Larsen Bay, Alaska
-99625, AK,  59.116273, -156.84802, Levelock, Alaska
-99626, AK,  61.518175, -160.37019, Lower, Alaska
-99627, AK,  62.949140, -155.57265, Mcgrath, Alaska
-99628, AK,  58.981087, -159.05580, Manokotak, Alaska
-99630, AK,  60.364246, -166.28601, Mekoryuk, Alaska
-99631, AK,  60.499602, -149.40247, Moose, Alaska
-99632, AK,  62.090075, -163.72393, Mountain, Alaska
-99633, AK,  58.745436, -156.95331, Naknek, Alaska
-99634, AK,  60.695049, -161.99090, Napakiak, Alaska
-99635, AK,  60.784804, -151.06473, Nikiski, Alaska
-99636, AK,  59.452339, -157.31368, New, Alaska
-99637, AK,  60.532936, -165.10529, Toksook Bay, Alaska
-99638, AK,  52.785684, -169.19469, Nikolski, Alaska
-99639, AK,  59.992821, -151.54194, Ninilchik, Alaska
-99640, AK,  59.971286, -154.85008, Nondalton, Alaska
-99641, AK,  60.898967, -162.43712, Nunapitchuk, Alaska
-99643, AK,  57.199260, -153.30438, Old Harbor, Alaska
-99644, AK,  57.929664, -152.46085, Ouzinkie, Alaska
-99645, AK,  61.598203, -149.04109, Butte, Alaska
-99647, AK,  59.781241, -154.10833, Pedro, Alaska
-99648, AK,  55.910760, -159.15591, Perryville, Alaska
-99649, AK,  57.508178, -157.39907, Pilot, Alaska
-99650, AK,  61.936050, -162.88340, Pilot, Alaska
-99651, AK,  59.006890, -161.81529, Platinum, Alaska
-99652, AK,  61.556311, -149.89098, Big Lake, Alaska
-99653, AK,  60.102331, -154.55708, Port, Alaska
-99654, AK,  61.580187, -149.48821, Wasilla, Alaska
-99655, AK,  59.754016, -161.90079, Quinhagak, Alaska
-99656, AK,  61.810587, -157.34370, Red, Alaska
-99657, AK,  61.785228, -161.36476, Russian, Alaska
-99658, AK,  62.048263, -163.19370, Saint, Alaska
-99659, AK,  63.477448, -162.03841, Saint, Alaska
-99660, AK,  57.130894, -170.27203, Saint, Alaska
-99661, AK,  55.311735, -160.48813, Sand, Alaska
-99662, AK,  61.783788, -165.53972, Scammon, Alaska
-99663, AK,  59.422698, -151.71513, Seldovia, Alaska
-99664, AK,  60.151652, -149.41271, Seward, Alaska
-99665, AK,  62.655998, -159.53113, Shageluk, Alaska
-99666, AK,  62.495675, -164.97188, Nunam Iqua, Alaska
-99667, AK,  61.898872, -151.51587, Skwentna, Alaska
-99668, AK,  61.683931, -157.15202, Sleetmute, Alaska
-99669, AK,  60.489536, -151.02091, Soldotna, Alaska
-99670, AK,  58.711630, -157.01746, South, Alaska
-99671, AK,  63.511893, -162.27463, Stebbins, Alaska
-99672, AK,  60.532394, -150.74033, Sterling, Alaska
-99674, AK,  61.751348, -148.69632, Sutton, Alaska
-99675, AK,  62.969642, -156.10264, Takotna, Alaska
-99676, AK,  62.298254, -149.87542, Talkeetna, Alaska
-99677, AK,  60.863764, -146.68013, Tatitlek, Alaska
-99678, AK,  59.101934, -160.50353, Togiak, Alaska
-99679, AK,  61.102912, -160.96325, Tuluksak, Alaska
-99680, AK,  60.343879, -162.66587, Tuntutuliak, Alaska
-99681, AK,  60.582127, -165.25645, Tununak, Alaska
-99682, AK,  61.067777, -151.14169, Tyonek, Alaska
-99683, AK,  62.415294, -150.37044, Trapper, Alaska
-99684, AK,  63.882081, -160.76294, Unalakleet, Alaska
-99685, AK,  53.872017, -166.52287, Unalaska, Alaska
-99686, AK,  61.128176, -146.23570, Valdez, Alaska
-99687, AK,  61.391728, -149.99002, Wasilla, Alaska
-99688, AK,  61.796774, -150.07792, Willow, Alaska
-99689, AK,  59.538728, -139.71052, Yakutat, Alaska
-99690, AK,  60.527618, -164.81976, Nightmute, Alaska
-99691, AK,  62.999213, -154.41957, Nikolai, Alaska
-99692, AK,  53.883729, -166.54850, Dutch, Alaska
-99693, AK,  60.639257, -148.54211, Whittier, Alaska
-99694, AK,  61.629635, -149.79507, Houston, Alaska
-99695, AK,  61.402544, -150.57485, Anchorage, Alaska
-99697, AK,  57.564289, -153.40755, Kodiak, Alaska
-996HH, AK,  59.724281, -150.46488, city-latitude-150.46488, Alaska
-996XX, AK,  60.938037, -153.43502, city-latitude-153.43502, Alaska
-99701, AK,  64.835070, -147.72045, Coldfoot, Alaska
-99702, AK,  64.661627, -147.02121, Eielson, Alaska
-99703, AK,  64.827164, -147.62650, Fort, Alaska
-99704, AK,  64.289856, -149.17778, Clear, Alaska
-99705, AK,  64.777233, -147.36490, North, Alaska
-99709, AK,  64.854937, -147.87406, Fairbanks, Alaska
-99712, AK,  64.926041, -147.49573, Fairbanks, Alaska
-99714, AK,  64.464105, -146.91648, Salcha, Alaska
-99720, AK,  66.557586, -152.65590, Allakaket, Alaska
-99721, AK,  68.148216, -151.72854, Anaktuvuk, Alaska
-99722, AK,  68.121828, -145.52768, Arctic, Alaska
-99723, AK,  71.299525, -156.74891, Barrow, Alaska
-99724, AK,  66.359719, -147.39743, Beaver, Alaska
-99725, AK,  64.842326, -148.02197, Ester, Alaska
-99726, AK,  66.917381, -151.50508, Bettles, Alaska
-99727, AK,  65.979144, -161.12225, Buckland, Alaska
-99729, AK,  63.255516, -148.39873, Cantwell, Alaska
-99730, AK,  65.551022, -144.71982, Central, Alaska
-99732, AK,  64.070738, -141.87489, Chicken, Alaska
-99733, AK,  65.796306, -144.06388, Circle, Alaska
-99736, AK,  66.075713, -162.71822, Deering, Alaska
-99737, AK,  63.978355, -145.46230, Dot, Alaska
-99738, AK,  64.778099, -141.19257, Eagle, Alaska
-99739, AK,  64.620513, -162.27718, Elim, Alaska
-99740, AK,  66.566652, -145.28231, Fort, Alaska
-99741, AK,  64.739082, -156.89456, Galena, Alaska
-99742, AK,  63.776098, -171.70088, Gambell, Alaska
-99743, AK,  64.010218, -149.10712, Healy, Alaska
-99744, AK,  64.349263, -149.19265, Anderson, Alaska
-99745, AK,  66.044094, -154.25703, Hughes, Alaska
-99746, AK,  65.701858, -156.38713, Huslia, Alaska
-99747, AK,  70.133460, -143.62436, Kaktovik, Alaska
-99748, AK,  64.324887, -158.73204, Kaltag, Alaska
-99749, AK,  66.971720, -160.43016, Kiana, Alaska
-99750, AK,  67.733313, -164.54522, Kivalina, Alaska
-99751, AK,  66.908604, -156.88828, Kobuk, Alaska
-99752, AK,  66.897192, -162.58544, Kotzebue, Alaska
-99753, AK,  64.932225, -161.15597, Koyuk, Alaska
-99754, AK,  64.881745, -157.70439, Koyukuk, Alaska
-99755, AK,  63.657441, -148.83396, Denali National, Alaska
-99756, AK,  65.021337, -150.50318, Manley Hot Sprin, Alaska
-99757, AK,  63.893902, -152.30201, Lake Minchumina, Alaska
-99758, AK,  65.152583, -149.39156, Minto, Alaska
-99759, AK,  69.741023, -163.00861, Point Lay, Alaska
-99760, AK,  64.560888, -149.07674, Nenana, Alaska
-99761, AK,  67.572031, -162.97508, Noatak, Alaska
-99762, AK,  64.532616, -165.10883, Golovin, Alaska
-99763, AK,  66.837130, -161.03664, Noorvik, Alaska
-99764, AK,  62.980725, -141.82852, Northway, Alaska
-99765, AK,  64.730035, -158.11178, Nulato, Alaska
-99766, AK,  68.347052, -166.76291, Point Hope, Alaska
-99767, AK,  65.507883, -150.16360, Rampart, Alaska
-99768, AK,  64.737306, -155.48769, Ruby, Alaska
-99769, AK,  63.686038, -170.40870, Savoonga, Alaska
-99770, AK,  66.597998, -160.01772, Selawik, Alaska
-99771, AK,  64.343258, -161.16785, Shaktoolik, Alaska
-99772, AK,  66.259417, -165.73202, Shishmaref, Alaska
-99773, AK,  66.887401, -157.14287, Shungnak, Alaska
-99774, AK,  66.005296, -149.10303, Stevens Village, Alaska
-99775, AK,  64.860846, -147.82681, Fairbanks, Alaska
-99776, AK,  63.376206, -143.35699, Tanacross, Alaska
-99777, AK,  65.172029, -152.08258, Tanana, Alaska
-99778, AK,  65.250432, -166.35474, Teller, Alaska
-99779, AK,  63.135294, -142.53230, Tetlin, Alaska
-99780, AK,  63.341767, -142.93704, Border, Alaska
-99781, AK,  67.015569, -146.41736, Venetie, Alaska
-99782, AK,  70.640902, -160.02481, Wainwright, Alaska
-99783, AK,  65.612116, -168.08928, Wales, Alaska
-99784, AK,  64.684323, -163.44257, White Mountain, Alaska
-99785, AK,  65.342744, -166.51023, Brevig Mission, Alaska
-99786, AK,  67.083658, -157.86225, Ambler, Alaska
-99788, AK,  66.653222, -143.72717, Chalkyitsik, Alaska
-99789, AK,  70.215197, -151.02746, Nuiqsut, Alaska
-99791, AK,  70.477663, -157.41805, Atqasuk, Alaska
-997HH, AK,  64.815413, -141.17680, city-latitude-141.17680, Alaska
-997XX, AK,  66.360999, -152.61510, city-latitude-152.61510, Alaska
-99801, AK,  58.358599, -134.54749, Juneau, Alaska
-99820, AK,  57.487650, -134.57222, Angoon, Alaska
-99824, AK,  58.276192, -134.39781, Douglas, Alaska
-99825, AK,  58.068878, -136.27833, Elfin Cove, Alaska
-99826, AK,  58.434052, -135.73088, Gustavus, Alaska
-99827, AK,  59.279037, -135.61220, Haines, Alaska
-99829, AK,  58.109608, -135.43154, Hoonah, Alaska
-99830, AK,  56.975011, -133.93230, Kake, Alaska
-99832, AK,  57.959709, -136.22032, Pelican, Alaska
-99833, AK,  56.784206, -132.97354, Petersburg, Alaska
-99835, AK,  57.064376, -135.32270, Sitka, Alaska
-99840, AK,  59.465159, -135.31355, Skagway, Alaska
-99841, AK,  57.777622, -135.20777, Tenakee Springs, Alaska
-99850, AK,  58.411303, -135.40874, Juneau, Alaska
-998HH, AK,  58.544293, -134.52202, city-latitude-134.52202, Alaska
-998XX, AK,  57.666184, -134.94785, city-latitude-134.94785, Alaska
-99901, AK,  55.368644, -131.67620, Ketchikan, Alaska
-99903, AK,  55.742045, -132.25002, Meyers Chuck, Alaska
-99918, AK,  56.009124, -132.82018, Coffman Cove, Alaska
-99919, AK,  55.677232, -132.55624, Thorne Bay, Alaska
-99921, AK,  55.456449, -133.02648, Craig, Alaska
-99922, AK,  55.209339, -132.82545, Hydaburg, Alaska
-99923, AK,  55.941442, -130.05450, Hyder, Alaska
-99925, AK,  55.555164, -133.07316, Klawock, Alaska
-99926, AK,  55.123897, -131.56883, Metlakatla, Alaska
-99927, AK,  56.337957, -133.60689, Point Baker, Alaska
-99929, AK,  56.409507, -132.33822, Wrangell, Alaska
-99950, AK,  55.875767, -131.46633, Ketchikan, Alaska
-999HH, AK,  55.539963, -132.28885, city-latitude-132.28885, Alaska
-999XX, AK,  55.616026, -132.54936, city-latitude-132.54936, Alaska
-84536, AZ,  36.990184, -110.21230, Monument Valley, Arizona
-85003, AZ,  33.451143, -112.07838, Phoenix, Arizona
-85004, AZ,  33.451093, -112.07057, Phoenix, Arizona
-85006, AZ,  33.466392, -112.04875, Phoenix, Arizona
-85007, AZ,  33.449995, -112.09024, Phoenix, Arizona
-85008, AZ,  33.466393, -112.00080, Phoenix, Arizona
-85009, AZ,  33.456350, -112.12378, Phoenix, Arizona
-85012, AZ,  33.505251, -112.07030, Phoenix, Arizona
-85013, AZ,  33.507110, -112.08483, Phoenix, Arizona
-85014, AZ,  33.511325, -112.05711, Phoenix, Arizona
-85015, AZ,  33.506890, -112.10262, Phoenix, Arizona
-85016, AZ,  33.503742, -112.03235, Phoenix, Arizona
-85017, AZ,  33.514092, -112.12285, Phoenix, Arizona
-85018, AZ,  33.498076, -111.98603, Phoenix, Arizona
-85019, AZ,  33.511992, -112.14170, Phoenix, Arizona
-85020, AZ,  33.563663, -112.05519, Phoenix, Arizona
-85021, AZ,  33.559437, -112.09281, Phoenix, Arizona
-85022, AZ,  33.630497, -112.05210, Phoenix, Arizona
-85023, AZ,  33.638271, -112.09341, Phoenix, Arizona
-85024, AZ,  33.675564, -112.04717, Phoenix, Arizona
-85027, AZ,  33.698731, -112.11429, New River Stage, Arizona
-85028, AZ,  33.585037, -112.00815, Phoenix, Arizona
-85029, AZ,  33.598841, -112.12023, Phoenix, Arizona
-85031, AZ,  33.493496, -112.17108, Phoenix, Arizona
-85032, AZ,  33.624140, -112.00416, Phoenix, Arizona
-85033, AZ,  33.496091, -112.21405, Phoenix, Arizona
-85034, AZ,  33.437772, -112.02810, Phoenix, Arizona
-85035, AZ,  33.472492, -112.18750, Phoenix, Arizona
-85037, AZ,  33.493006, -112.25539, Phoenix, Arizona
-85040, AZ,  33.393323, -112.02857, Phoenix, Arizona
-85041, AZ,  33.386995, -112.10076, Phoenix, Arizona
-85043, AZ,  33.435405, -112.20009, Phoenix, Arizona
-85044, AZ,  33.333591, -111.99246, Phoenix, Arizona
-85045, AZ,  33.299740, -112.09812, Phoenix, Arizona
-85048, AZ,  33.302098, -112.02477, Phoenix, Arizona
-85050, AZ,  33.683603, -111.99271, Phoenix, Arizona
-85051, AZ,  33.559783, -112.13361, Phoenix, Arizona
-85053, AZ,  33.629911, -112.13122, Phoenix, Arizona
-85054, AZ,  33.689558, -111.96463, Phoenix, Arizona
-85085, AZ,  33.777760, -112.07945, Phoenix, Arizona
-85086, AZ,  33.831866, -112.06339, Phoenix, Arizona
-85087, AZ,  33.921493, -112.09992, New River, Arizona
-850HH, AZ,  33.419444, -112.05787, city-latitude-112.05787, Arizona
-85201, AZ,  33.432177, -111.84701, Mesa, Arizona
-85202, AZ,  33.381097, -111.87560, Mesa, Arizona
-85203, AZ,  33.437493, -111.80600, Mesa, Arizona
-85204, AZ,  33.400127, -111.78594, Mesa, Arizona
-85205, AZ,  33.426932, -111.71686, Mesa, Arizona
-85206, AZ,  33.400306, -111.72452, Mesa, Arizona
-85207, AZ,  33.436767, -111.64338, Mesa, Arizona
-85208, AZ,  33.393967, -111.64302, Mesa, Arizona
-85210, AZ,  33.391233, -111.84129, Mesa, Arizona
-85212, AZ,  33.350350, -111.64535, Mesa, Arizona
-85213, AZ,  33.434192, -111.76892, Mesa, Arizona
-85215, AZ,  33.479868, -111.69350, Mesa, Arizona
-85219, AZ,  33.402969, -111.46337, Gold Canyon, Arizona
-85220, AZ,  33.416083, -111.57620, Apache Junction, Arizona
-85221, AZ,  33.126134, -111.90545, Bapchule, Arizona
-85222, AZ,  32.878138, -111.73499, Eleven Mile Corn, Arizona
-85223, AZ,  32.749664, -111.68022, Arizona City, Arizona
-85224, AZ,  33.328951, -111.87350, Chandler, Arizona
-85225, AZ,  33.316349, -111.83064, Chandler, Arizona
-85226, AZ,  33.312208, -111.93177, Chandler, Arizona
-85228, AZ,  32.967829, -111.52617, Coolidge, Arizona
-85230, AZ,  32.742949, -111.78945, Casa Grande, Arizona
-85231, AZ,  32.712323, -111.57673, Eloy, Arizona
-85232, AZ,  32.961615, -111.31629, Florence, Arizona
-85233, AZ,  33.348593, -111.80833, Gilbert, Arizona
-85234, AZ,  33.363440, -111.75093, Gilbert, Arizona
-85235, AZ,  32.995762, -110.78040, Hayden, Arizona
-85236, AZ,  33.305783, -111.70835, Higley, Arizona
-85237, AZ,  33.099770, -110.97202, Kearny, Arizona
-85239, AZ,  32.989261, -112.11505, Mobile, Arizona
-85241, AZ,  32.712136, -111.49949, Picacho, Arizona
-85242, AZ,  33.227266, -111.61087, Arizona Boys Ran, Arizona
-85245, AZ,  32.623115, -111.37672, Red Rock, Arizona
-85247, AZ,  33.107581, -111.75128, Sacaton, Arizona
-85248, AZ,  33.239097, -111.86355, Sun Lakes, Arizona
-85249, AZ,  33.237229, -111.80040, Chandler, Arizona
-85250, AZ,  33.521433, -111.90944, Scottsdale, Arizona
-85251, AZ,  33.494152, -111.92079, Scottsdale, Arizona
-85253, AZ,  33.544596, -111.95645, Paradise Valley, Arizona
-85254, AZ,  33.617504, -111.95416, Scottsdale, Arizona
-85255, AZ,  33.697268, -111.88321, Scottsdale, Arizona
-85256, AZ,  33.491302, -111.83509, Scottsdale, Arizona
-85257, AZ,  33.467347, -111.91741, Scottsdale, Arizona
-85258, AZ,  33.566635, -111.89337, Scottsdale, Arizona
-85259, AZ,  33.596995, -111.82628, Scottsdale, Arizona
-85260, AZ,  33.606004, -111.88699, Scottsdale, Arizona
-85262, AZ,  33.798581, -111.87080, Scottsdale, Arizona
-85263, AZ,  33.722594, -111.67915, Rio Verde, Arizona
-85264, AZ,  33.617643, -111.67554, Fort Mcdowell, Arizona
-85268, AZ,  33.604811, -111.72852, Fountain Hills, Arizona
-85272, AZ,  32.852769, -111.97564, Stanfield, Arizona
-85273, AZ,  33.285910, -111.11015, Superior, Arizona
-85281, AZ,  33.426885, -111.92733, Tempe, Arizona
-85282, AZ,  33.394067, -111.92873, Tempe, Arizona
-85283, AZ,  33.365951, -111.93155, Tempe, Arizona
-85284, AZ,  33.338333, -111.92962, Tempe, Arizona
-85292, AZ,  32.945838, -110.72198, Winkelman, Arizona
-85296, AZ,  33.319722, -111.76078, Gilbert, Arizona
-852HH, AZ,  33.485105, -111.75827, city-latitude-111.75827, Arizona
-852XX, AZ,  33.135317, -111.41168, city-latitude-111.41168, Arizona
-85301, AZ,  33.534128, -112.17670, Glendale, Arizona
-85302, AZ,  33.568143, -112.17699, Glendale, Arizona
-85303, AZ,  33.528166, -112.22189, Glendale, Arizona
-85304, AZ,  33.594069, -112.17531, Glendale, Arizona
-85305, AZ,  33.529373, -112.25225, Glendale, Arizona
-85306, AZ,  33.624546, -112.17670, Glendale, Arizona
-85307, AZ,  33.529314, -112.30607, Luke Afb, Arizona
-85308, AZ,  33.657722, -112.17825, Glendale, Arizona
-85309, AZ,  33.533985, -112.37688, Luke Afb, Arizona
-85310, AZ,  33.701173, -112.17614, Glendale, Arizona
-85320, AZ,  33.945183, -113.19837, Aguila, Arizona
-85321, AZ,  32.331853, -112.78694, Why, Arizona
-85322, AZ,  33.274422, -112.78934, Arlington, Arizona
-85323, AZ,  33.454441, -112.32401, Avondale, Arizona
-85324, AZ,  34.108650, -112.10088, Rock Springs, Arizona
-85325, AZ,  33.946064, -113.95370, Bouse, Arizona
-85326, AZ,  33.354418, -112.56941, Buckeye, Arizona
-85328, AZ,  33.326956, -114.68562, Cibola, Arizona
-85329, AZ,  33.431242, -112.29588, Cashion, Arizona
-85331, AZ,  33.789204, -111.96301, Cave Creek, Arizona
-85332, AZ,  34.177939, -112.93070, Congress, Arizona
-85333, AZ,  32.921712, -113.45703, Dateland, Arizona
-85334, AZ,  33.631915, -114.49095, Ehrenberg, Arizona
-85335, AZ,  33.596823, -112.32364, El Mirage, Arizona
-85336, AZ,  32.532458, -114.78056, Gadsden, Arizona
-85337, AZ,  32.971684, -112.79460, Gila Bend, Arizona
-85338, AZ,  33.430922, -112.38482, Goodyear, Arizona
-85339, AZ,  33.352795, -112.16752, Laveen, Arizona
-85340, AZ,  33.508350, -112.40523, Litchfield Park, Arizona
-85342, AZ,  33.939162, -112.49976, Morristown, Arizona
-85344, AZ,  34.100704, -114.30462, Empire Landing, Arizona
-85345, AZ,  33.573602, -112.23984, Peoria, Arizona
-85346, AZ,  33.654343, -114.23325, Quartzsite, Arizona
-85347, AZ,  32.744976, -113.85421, Roll, Arizona
-85348, AZ,  33.730443, -113.62376, Salome, Arizona
-85349, AZ,  32.494054, -114.77866, San Luis, Arizona
-85350, AZ,  32.581930, -114.71199, Somerton, Arizona
-85351, AZ,  33.606420, -112.28316, Sun City, Arizona
-85353, AZ,  33.426423, -112.28299, Tolleson, Arizona
-85354, AZ,  33.452432, -113.01652, Tonopah, Arizona
-85355, AZ,  33.569705, -112.44792, Waddell, Arizona
-85356, AZ,  32.676125, -114.13546, Wellton, Arizona
-85357, AZ,  33.843519, -113.53441, Wenden, Arizona
-85360, AZ,  34.681394, -113.59350, Wikieup, Arizona
-85361, AZ,  33.739904, -112.59778, Wittmann, Arizona
-85362, AZ,  34.286193, -112.69667, Yarnell, Arizona
-85363, AZ,  33.588225, -112.30263, Youngtown, Arizona
-85364, AZ,  32.704499, -114.64644, Yuma, Arizona
-85365, AZ,  32.700018, -114.52671, Yuma Proving Gro, Arizona
-85367, AZ,  32.654701, -114.40884, Yuma, Arizona
-85373, AZ,  33.661560, -112.28931, Sun City, Arizona
-85374, AZ,  33.643508, -112.38502, Surprise, Arizona
-85375, AZ,  33.683352, -112.36474, Sun City West, Arizona
-85379, AZ,  33.616888, -112.40158, Surprise, Arizona
-85381, AZ,  33.608640, -112.22791, Peoria, Arizona
-85382, AZ,  33.689869, -112.24838, Peoria, Arizona
-85390, AZ,  33.961122, -112.76952, Wickenburg, Arizona
-853HH, AZ,  33.543563, -112.31370, city-latitude-112.31370, Arizona
-853XX, AZ,  33.511284, -113.40508, city-latitude-113.40508, Arizona
-85501, AZ,  33.534570, -110.75681, Globe, Arizona
-85530, AZ,  33.053797, -110.22921, Bylas, Arizona
-85531, AZ,  32.872122, -109.79267, Central, Arizona
-85533, AZ,  33.122043, -109.28410, Clifton, Arizona
-85534, AZ,  32.731748, -109.11471, Franklin, Arizona
-85535, AZ,  32.963028, -109.91803, Eden, Arizona
-85536, AZ,  33.028740, -109.98719, Fort Thomas, Arizona
-85539, AZ,  33.383937, -110.90026, Miami, Arizona
-85540, AZ,  33.044523, -109.32904, Morenci, Arizona
-85541, AZ,  34.243578, -111.28137, Payson, Arizona
-85542, AZ,  33.262553, -110.52310, Peridot, Arizona
-85543, AZ,  32.903750, -109.84995, Pima, Arizona
-85544, AZ,  34.394226, -111.46865, Strawberry, Arizona
-85545, AZ,  33.624008, -111.01062, Roosevelt, Arizona
-85546, AZ,  32.800222, -109.69052, Safford, Arizona
-85550, AZ,  33.372140, -110.11686, San Carlos, Arizona
-85552, AZ,  32.816055, -109.76487, Thatcher, Arizona
-85553, AZ,  33.830708, -111.30102, Tonto Basin, Arizona
-85554, AZ,  34.093715, -110.96487, Young, Arizona
-855HH, AZ,  33.199876, -110.43418, city-latitude-110.43418, Arizona
-855XX, AZ,  32.789949, -109.51320, city-latitude-109.51320, Arizona
-85601, AZ,  31.579152, -111.33413, Arivaca, Arizona
-85602, AZ,  32.010164, -110.31820, Benson, Arizona
-85603, AZ,  31.406229, -109.89580, Bisbee, Arizona
-85605, AZ,  32.314118, -109.46196, Bowie, Arizona
-85606, AZ,  32.054694, -109.81342, Cochise, Arizona
-85607, AZ,  31.382775, -109.55035, Douglas, Arizona
-85608, AZ,  31.569536, -109.23407, Douglas, Arizona
-85609, AZ,  32.036365, -110.04581, Dragoon, Arizona
-85610, AZ,  31.724946, -109.64646, Elfrida, Arizona
-85611, AZ,  31.588594, -110.51857, Elgin, Arizona
-85613, AZ,  31.541437, -110.30004, Fort Huachuca, Arizona
-85614, AZ,  31.857504, -111.00904, Green Valley, Arizona
-85615, AZ,  31.429017, -110.23013, Hereford, Arizona
-85616, AZ,  31.684819, -110.34743, Huachuca City, Arizona
-85617, AZ,  31.536321, -109.67608, Mc Neal, Arizona
-85618, AZ,  32.708740, -110.63925, Mammoth, Arizona
-85619, AZ,  32.441496, -110.75682, Mount Lemmon, Arizona
-85621, AZ,  31.377370, -110.92640, Nogales, Arizona
-85623, AZ,  32.625543, -110.77201, Oracle, Arizona
-85624, AZ,  31.504439, -110.70794, Patagonia, Arizona
-85625, AZ,  31.911838, -109.77230, Pearce, Arizona
-85627, AZ,  32.098810, -110.09917, Pomerene, Arizona
-85629, AZ,  31.939718, -110.97527, Sahuarita, Arizona
-85630, AZ,  31.898039, -110.21803, Saint David, Arizona
-85631, AZ,  32.597198, -110.60293, San Manuel, Arizona
-85632, AZ,  32.048448, -109.19635, Portal, Arizona
-85633, AZ,  31.632739, -111.49066, Sasabe, Arizona
-85634, AZ,  31.998543, -111.93712, Pisinemo, Arizona
-85635, AZ,  31.562546, -110.24288, Sierra Vista, Arizona
-85637, AZ,  31.733433, -110.66869, Sonoita, Arizona
-85638, AZ,  31.714525, -110.06684, Tombstone, Arizona
-85639, AZ,  31.773676, -111.76494, Topawa, Arizona
-85640, AZ,  31.586392, -111.04160, Amado, Arizona
-85641, AZ,  32.001960, -110.67442, Vail, Arizona
-85643, AZ,  32.356537, -109.88461, Willcox, Arizona
-85645, AZ,  31.718671, -111.09908, Amado, Arizona
-85646, AZ,  31.623432, -111.06352, Tubac, Arizona
-85648, AZ,  31.488579, -110.98926, Rio Rico, Arizona
-85650, AZ,  31.492003, -110.24699, Sierra Vista, Arizona
-85653, AZ,  32.454488, -111.26232, Marana, Arizona
-85654, AZ,  32.417221, -111.17135, Rillito, Arizona
-856HH, AZ,  32.131960, -109.87159, city-latitude-109.87159, Arizona
-85701, AZ,  32.216743, -110.96960, Tucson, Arizona
-85704, AZ,  32.327640, -110.98801, Casas Adobes, Arizona
-85705, AZ,  32.260316, -110.98534, Tucson, Arizona
-85706, AZ,  32.128649, -110.92497, Tucson, Arizona
-85708, AZ,  32.196846, -110.89189, Tucson, Arizona
-85710, AZ,  32.213291, -110.82559, Tucson, Arizona
-85711, AZ,  32.216326, -110.88511, Tucson, Arizona
-85712, AZ,  32.249551, -110.88780, Tucson, Arizona
-85713, AZ,  32.194909, -110.97570, Tucson, Arizona
-85714, AZ,  32.170277, -110.95525, Tucson, Arizona
-85715, AZ,  32.247175, -110.82864, Tucson, Arizona
-85716, AZ,  32.242275, -110.92533, Tucson, Arizona
-85718, AZ,  32.313460, -110.92282, Tucson, Arizona
-85719, AZ,  32.240625, -110.94791, Tucson, Arizona
-85730, AZ,  32.179227, -110.81032, Tucson, Arizona
-85735, AZ,  32.139180, -111.23968, Tucson, Arizona
-85736, AZ,  31.979764, -111.29398, Tucson, Arizona
-85737, AZ,  32.417144, -110.96354, Oro Valley, Arizona
-85739, AZ,  32.521096, -110.90870, Tucson, Arizona
-85741, AZ,  32.338126, -111.04259, Tucson, Arizona
-85742, AZ,  32.385588, -111.05582, Tucson, Arizona
-85743, AZ,  32.335122, -111.14888, Tucson, Arizona
-85745, AZ,  32.242724, -111.02090, Tucson, Arizona
-85746, AZ,  32.126223, -111.04599, Tucson, Arizona
-85747, AZ,  32.109302, -110.77573, Tucson, Arizona
-85748, AZ,  32.216926, -110.76851, Tucson, Arizona
-85749, AZ,  32.299275, -110.74419, Tucson, Arizona
-85750, AZ,  32.292078, -110.84384, Tucson, Arizona
-85901, AZ,  34.271427, -110.03676, Show Low, Arizona
-85911, AZ,  34.102913, -110.55639, Cibecue, Arizona
-85920, AZ,  33.836157, -109.19785, Alpine, Arizona
-85922, AZ,  33.681485, -109.24946, Blue, Arizona
-85923, AZ,  34.364618, -110.29487, Clay Springs, Arizona
-85924, AZ,  34.448733, -109.71140, Concho, Arizona
-85925, AZ,  34.109777, -109.34532, Eagar, Arizona
-85926, AZ,  34.074253, -109.86356, Fort Apache, Arizona
-85927, AZ,  33.801744, -109.58336, Greer, Arizona
-85928, AZ,  34.563994, -110.55929, Heber, Arizona
-85929, AZ,  34.162407, -109.99520, Lakeside, Arizona
-85930, AZ,  34.044210, -109.73709, Mcnary, Arizona
-85931, AZ,  34.393887, -110.83591, Forest Lakes, Arizona
-85932, AZ,  33.927014, -109.22149, Nutrioso, Arizona
-85933, AZ,  34.392829, -110.52048, Overgaard, Arizona
-85934, AZ,  34.270743, -110.26032, Pinedale, Arizona
-85935, AZ,  34.121008, -109.91503, Pinetop, Arizona
-85936, AZ,  34.558663, -109.40254, Saint Johns, Arizona
-85937, AZ,  34.560896, -110.03633, Snowflake, Arizona
-85938, AZ,  34.094597, -109.22291, Springerville, Arizona
-85939, AZ,  34.442667, -110.09181, Taylor, Arizona
-85940, AZ,  34.268984, -109.67514, Vernon, Arizona
-85941, AZ,  33.849439, -110.03334, Whiteriver, Arizona
-85942, AZ,  34.778649, -109.96697, Woodruff, Arizona
-86001, AZ,  35.279872, -111.72256, Flagstaff, Arizona
-86004, AZ,  35.253002, -111.44851, Flagstaff, Arizona
-86015, AZ,  35.235694, -111.83000, Bellemont, Arizona
-86016, AZ,  35.675689, -111.49474, Gray Mountain, Arizona
-86017, AZ,  34.937200, -111.62931, Munds Park, Arizona
-86018, AZ,  35.197566, -111.93253, Parks Community Post Office, Arizona
-86020, AZ,  36.182818, -111.54720, Cameron, Arizona
-86021, AZ,  36.985868, -112.97910, Colorado City, Arizona
-86022, AZ,  36.844685, -112.47107, Fredonia, Arizona
-86023, AZ,  35.862292, -112.06498, Grand Canyon, Arizona
-86024, AZ,  34.690846, -111.16676, Happy Jack, Arizona
-86025, AZ,  34.936261, -110.14698, Holbrook, Arizona
-86030, AZ,  36.115339, -110.61562, Hotevilla, Arizona
-86031, AZ,  35.480410, -110.09228, Indian Wells, Arizona
-86032, AZ,  35.101925, -110.42509, Joseph City, Arizona
-86033, AZ,  36.608485, -110.18425, Kayenta, Arizona
-86034, AZ,  35.765669, -110.18617, Keams Canyon, Arizona
-86035, AZ,  35.335107, -110.99972, Leupp, Arizona
-86036, AZ,  36.618595, -111.85444, Marble Canyon, Arizona
-86039, AZ,  36.000590, -110.52010, Kykotsmovi Villa, Arizona
-86040, AZ,  36.726377, -111.42840, Greenehaven, Arizona
-86042, AZ,  35.835642, -110.36628, Polacca, Arizona
-86043, AZ,  35.777227, -110.50131, Second Mesa, Arizona
-86044, AZ,  36.507554, -110.86804, Tonalea, Arizona
-86045, AZ,  36.061184, -111.06828, Tuba City, Arizona
-86046, AZ,  35.378832, -112.23657, Williams, Arizona
-86047, AZ,  35.258309, -110.53128, Winslow, Arizona
-86052, AZ,  36.499283, -112.23039, North Rim, Arizona
-86053, AZ,  36.556111, -111.10495, Kaibito, Arizona
-86054, AZ,  36.630103, -110.65072, Shonto, Arizona
-860HH, AZ,  36.207136, -112.32836, city-latitude-112.32836, Arizona
-860XX, AZ,  36.047645, -112.90449, city-latitude-112.90449, Arizona
-86301, AZ,  34.589477, -112.44726, Prescott, Arizona
-86303, AZ,  34.515939, -112.45399, Groom Creek, Arizona
-86305, AZ,  34.700620, -112.63753, Prescott, Arizona
-86314, AZ,  34.621743, -112.32176, Prescott Valley, Arizona
-86320, AZ,  35.178163, -112.56465, Ash Fork, Arizona
-86321, AZ,  34.543627, -113.11473, Bagdad, Arizona
-86322, AZ,  34.556478, -111.84375, Camp Verde, Arizona
-86323, AZ,  34.765452, -112.45931, Chino Valley, Arizona
-86324, AZ,  34.767841, -112.06438, Clarkdale, Arizona
-86325, AZ,  34.718836, -111.90168, Cornville, Arizona
-86326, AZ,  34.723788, -112.01002, Cottonwood, Arizona
-86327, AZ,  34.533237, -112.20644, Dewey, Arizona
-86331, AZ,  34.744280, -112.14586, Jerome, Arizona
-86332, AZ,  34.426513, -112.62610, Kirkland, Arizona
-86333, AZ,  34.339938, -112.13612, Mayer, Arizona
-86334, AZ,  34.910591, -112.46252, Paulden, Arizona
-86335, AZ,  34.653475, -111.75103, Rimrock, Arizona
-86336, AZ,  34.876638, -111.80666, Sedona, Arizona
-86337, AZ,  35.334394, -113.05774, Seligman, Arizona
-86338, AZ,  34.557983, -112.70556, Skull Valley, Arizona
-86343, AZ,  34.201191, -112.35010, Crown King, Arizona
-86351, AZ,  34.782453, -111.76764, Sedona, Arizona
-86401, AZ,  35.259250, -113.95225, Kingman, Arizona
-86403, AZ,  34.483582, -114.33694, Desert Hills, Arizona
-86404, AZ,  34.546899, -114.32546, Lake Havasu City, Arizona
-86406, AZ,  34.469945, -114.27861, Lake Havasu City, Arizona
-86413, AZ,  35.190896, -114.24036, Golden Valley, Arizona
-86426, AZ,  35.013495, -114.58524, Fort Mohave, Arizona
-86429, AZ,  35.172854, -114.54696, Bullhead City, Arizona
-86430, AZ,  35.256802, -114.49451, Bullhead City, Arizona
-86431, AZ,  35.413284, -114.21626, Chloride, Arizona
-86432, AZ,  36.903232, -113.94024, Littlefield, Arizona
-86433, AZ,  35.030577, -114.38928, Oatman, Arizona
-86434, AZ,  35.482227, -113.51210, Peach Springs, Arizona
-86435, AZ,  36.198652, -112.51013, Supai, Arizona
-86436, AZ,  34.782526, -114.46630, Topock, Arizona
-86437, AZ,  35.386906, -113.66065, Valentine, Arizona
-86438, AZ,  34.805546, -114.14175, Yucca, Arizona
-86440, AZ,  34.888406, -114.57354, Mohave Valley, Arizona
-86441, AZ,  35.607935, -114.30203, Dolan Springs, Arizona
-86442, AZ,  35.097719, -114.59734, Bullhead City, Arizona
-86444, AZ,  35.950442, -114.07783, Meadview, Arizona
-864HH, AZ,  35.151163, -114.57163, city-latitude-114.57163, Arizona
-864XX, AZ,  35.108881, -113.94609, city-latitude-113.94609, Arizona
-86502, AZ,  35.213287, -109.54223, Chambers, Arizona
-86503, AZ,  36.165779, -109.61956, Chinle, Arizona
-86504, AZ,  35.771067, -109.17878, Fort Defiance, Arizona
-86505, AZ,  35.665344, -109.65344, Ganado, Arizona
-86506, AZ,  35.368902, -109.22194, Houck, Arizona
-86507, AZ,  36.423229, -109.29689, Lukachukai, Arizona
-86508, AZ,  35.325261, -109.07847, Lupton, Arizona
-86510, AZ,  36.110934, -110.20181, Pinon, Arizona
-86511, AZ,  35.610285, -109.20930, Saint Michaels, Arizona
-86512, AZ,  35.156320, -109.32309, Sanders, Arizona
-86514, AZ,  36.880920, -109.33634, Teec Nos Pos, Arizona
-86515, AZ,  35.672842, -109.06495, Window Rock, Arizona
-86520, AZ,  36.045603, -110.00633, Blue Gap, Arizona
-86535, AZ,  36.798893, -109.86488, Dennehotso, Arizona
-86538, AZ,  36.374317, -109.60070, Many Farms, Arizona
-86540, AZ,  35.952827, -109.41297, Nazlini, Arizona
-86544, AZ,  36.595590, -109.11872, Red Valley, Arizona
-86545, AZ,  36.662243, -109.59931, Rock Point, Arizona
-86547, AZ,  36.494915, -109.45613, Round Rock, Arizona
-86549, AZ,  35.958014, -109.17551, Sawmill, Arizona
-86556, AZ,  36.272262, -109.17516, Tsaile, Arizona
-87328, AZ,  35.923348, -109.08296, Navajo, Arizona
-89024, AZ,  36.789432, -114.01042, Mesquite, Arizona
+zip code,state abbreviation,latitude,longitude,city,state
+35004,AL,33.606379,-86.50249,Moody,Alabama
+35005,AL,33.592585,-86.95969,Adamsville,Alabama
+35006,AL,33.451714,-87.23957,Adger,Alabama
+35007,AL,33.232422,-86.80871,Alabaster,Alabama
+35010,AL,32.903432,-85.92669,Alexander City,Alabama
+35014,AL,33.355960,-86.27720,Alpine,Alabama
+35016,AL,34.323715,-86.49278,Arab,Alabama
+35019,AL,34.292540,-86.63505,Baileyton,Alabama
+35020,AL,33.405559,-86.95141,Bessemer,Alabama
+35022,AL,33.346817,-86.95252,Bessemer,Alabama
+35023,AL,33.443039,-87.01930,Bessemer,Alabama
+35031,AL,34.111425,-86.53380,Blountsville,Alabama
+35033,AL,33.952939,-87.02889,Bremen,Alabama
+35034,AL,32.915182,-87.21488,Brent,Alabama
+35035,AL,33.041166,-86.95117,Brierfield,Alabama
+35036,AL,33.638150,-86.91956,Brookside,Alabama
+35040,AL,33.107572,-86.74996,Calera,Alabama
+35042,AL,32.963486,-87.13867,Centreville,Alabama
+35043,AL,33.317093,-86.66295,Chelsea,Alabama
+35044,AL,33.268471,-86.35582,Childersburg,Alabama
+35045,AL,32.834501,-86.64355,Clanton,Alabama
+35046,AL,32.894351,-86.56504,Clanton,Alabama
+35049,AL,33.963435,-86.59540,Cleveland,Alabama
+35051,AL,33.201789,-86.61584,Columbiana,Alabama
+35052,AL,33.593115,-86.40840,Cook Springs,Alabama
+35053,AL,34.041061,-87.06771,Crane Hill,Alabama
+35054,AL,33.506012,-86.31547,Cropwell,Alabama
+35055,AL,34.167893,-86.82506,Cullman,Alabama
+35057,AL,34.139198,-86.92449,Cullman,Alabama
+35058,AL,34.223732,-86.75620,Cullman,Alabama
+35060,AL,33.559455,-86.92968,Docena,Alabama
+35061,AL,33.462541,-86.95736,Dolomite,Alabama
+35062,AL,33.731278,-87.03610,Dora,Alabama
+35063,AL,33.805216,-87.00192,Empire,Alabama
+35064,AL,33.476908,-86.91684,Fairfield,Alabama
+35068,AL,33.611297,-86.81518,Fultondale,Alabama
+35070,AL,34.011027,-86.74877,Garden City,Alabama
+35071,AL,33.679330,-86.82060,Gardendale,Alabama
+35072,AL,33.089342,-86.04682,Goodwater,Alabama
+35073,AL,33.640865,-86.96885,Graysville,Alabama
+35074,AL,33.225840,-87.12515,Green Pond,Alabama
+35077,AL,34.043589,-86.80644,Hanceville,Alabama
+35078,AL,33.337092,-86.44085,Harpersville,Alabama
+35079,AL,33.922179,-86.76070,Hayden,Alabama
+35080,AL,33.280625,-86.88411,Helena,Alabama
+35082,AL,33.116909,-86.16980,Hollins,Alabama
+35083,AL,34.198738,-86.59814,Holly Pond,Alabama
+35085,AL,32.965120,-86.74405,Jemison,Alabama
+35087,AL,34.303718,-86.58323,Joppa,Alabama
+35089,AL,32.941708,-86.06098,Kellyton,Alabama
+35091,AL,33.771090,-86.80672,Kimberly,Alabama
+35094,AL,33.530698,-86.55506,Leeds,Alabama
+35096,AL,33.605233,-86.12079,Lincoln,Alabama
+35097,AL,33.896526,-86.63056,Locust Fork,Alabama
+35098,AL,34.120006,-87.05075,Logan,Alabama
+350HH,AL,33.464476,-86.57757,city-latitude-86.57757,Alabama
+350XX,AL,32.978292,-86.49926,city-latitude-86.49926,Alabama
+35111,AL,33.279946,-87.10148,Mc Calla,Alabama
+35112,AL,33.681899,-86.48237,Margaret,Alabama
+35114,AL,33.225377,-86.86443,Maylene,Alabama
+35115,AL,33.114972,-86.87380,Montevallo,Alabama
+35116,AL,33.741370,-86.78543,Morris,Alabama
+35117,AL,33.665823,-86.87111,Mount Olive,Alabama
+35118,AL,33.529224,-87.01546,Mulga,Alabama
+35119,AL,33.640823,-86.77574,New Castle,Alabama
+35120,AL,33.668341,-86.43641,Odenville,Alabama
+35121,AL,33.944897,-86.45813,Oneonta,Alabama
+35124,AL,33.317471,-86.78726,Pelham,Alabama
+35125,AL,33.606663,-86.28912,Pell City,Alabama
+35126,AL,33.728568,-86.66052,Pinson,Alabama
+35127,AL,33.487675,-86.97331,Pleasant Grove,Alabama
+35128,AL,33.561597,-86.30285,Pell City,Alabama
+35130,AL,33.640629,-87.11584,Quinton,Alabama
+35131,AL,33.721107,-86.17492,Ragland,Alabama
+35133,AL,33.827521,-86.60703,Remlap,Alabama
+35135,AL,33.614465,-86.20067,Riverside,Alabama
+35136,AL,32.869700,-86.28220,Rockford,Alabama
+35139,AL,33.712204,-86.97203,Sayre,Alabama
+35143,AL,33.080971,-86.53875,Shelby,Alabama
+35146,AL,33.781133,-86.45052,Springville,Alabama
+35147,AL,33.397441,-86.54218,Sterrett,Alabama
+35148,AL,33.753474,-87.04756,Sumiton,Alabama
+35149,AL,33.252906,-86.20523,Sycamore,Alabama
+35150,AL,33.185782,-86.25105,Sylacauga,Alabama
+35151,AL,33.137515,-86.33414,Sylacauga,Alabama
+35160,AL,33.415449,-86.10908,Talladega,Alabama
+35171,AL,32.907616,-86.71868,Thorsby,Alabama
+35172,AL,33.823416,-86.71537,Trafford,Alabama
+35173,AL,33.623485,-86.58546,Trussville,Alabama
+35175,AL,34.426844,-86.51841,Union Grove,Alabama
+35176,AL,33.477600,-86.51260,Vandiver,Alabama
+35178,AL,33.414831,-86.39250,Vincent,Alabama
+35179,AL,34.256106,-86.92158,Vinemont,Alabama
+35180,AL,33.823430,-86.81569,Warrior,Alabama
+35183,AL,33.016558,-86.33936,Weogufka,Alabama
+35184,AL,33.118259,-87.13548,West Blocton,Alabama
+35186,AL,33.241272,-86.50614,Wilsonville,Alabama
+35188,AL,33.195743,-87.16252,Woodstock,Alabama
+351HH,AL,33.464016,-86.57741,city-latitude-86.57741,Alabama
+351XX,AL,32.953689,-86.38354,city-latitude-86.38354,Alabama
+35203,AL,33.519055,-86.80970,Birmingham,Alabama
+35204,AL,33.519855,-86.83534,Birmingham,Alabama
+35205,AL,33.497055,-86.80570,Birmingham,Alabama
+35206,AL,33.568573,-86.72163,Birmingham,Alabama
+35207,AL,33.560652,-86.81897,Birmingham,Alabama
+35208,AL,33.494545,-86.88115,Birmingham,Alabama
+35209,AL,33.468306,-86.80814,Birmingham,Alabama
+35210,AL,33.546051,-86.66963,Birmingham,Alabama
+35211,AL,33.479306,-86.85878,Birmingham,Alabama
+35212,AL,33.542004,-86.74896,Birmingham,Alabama
+35213,AL,33.507637,-86.74161,Birmingham,Alabama
+35214,AL,33.558772,-86.89199,Birmingham,Alabama
+35215,AL,33.636102,-86.69506,Birmingham,Alabama
+35216,AL,33.420558,-86.78489,Birmingham,Alabama
+35217,AL,33.590003,-86.76708,Birmingham,Alabama
+35218,AL,33.506456,-86.89524,Birmingham,Alabama
+35221,AL,33.450267,-86.89650,Birmingham,Alabama
+35222,AL,33.524254,-86.77335,Birmingham,Alabama
+35223,AL,33.488355,-86.73402,Birmingham,Alabama
+35224,AL,33.517706,-86.93189,Birmingham,Alabama
+35226,AL,33.406409,-86.82950,Birmingham,Alabama
+35228,AL,33.454262,-86.92273,Birmingham,Alabama
+35233,AL,33.509623,-86.79970,Birmingham,Alabama
+35234,AL,33.538504,-86.80602,Birmingham,Alabama
+35235,AL,33.609779,-86.65507,Birmingham,Alabama
+35242,AL,33.409582,-86.69684,Birmingham,Alabama
+35243,AL,33.437667,-86.74586,Birmingham,Alabama
+35244,AL,33.356981,-86.81577,Birmingham,Alabama
+352HH,AL,33.522499,-86.64097,city-latitude-86.64097,Alabama
+35401,AL,33.193818,-87.56843,Tuscaloosa,Alabama
+35403,AL,33.205073,-87.52749,Tuscaloosa,Alabama
+35404,AL,33.217168,-87.49461,Tuscaloosa,Alabama
+35405,AL,33.149246,-87.52303,Tuscaloosa,Alabama
+35406,AL,33.271585,-87.50611,Tuscaloosa,Alabama
+35441,AL,32.871514,-87.73326,Akron,Alabama
+35442,AL,33.095505,-88.18653,Aliceville,Alabama
+35443,AL,32.772835,-88.03210,Boligee,Alabama
+35444,AL,33.276411,-87.30520,Brookwood,Alabama
+35446,AL,33.207547,-87.75054,Buhl,Alabama
+35447,AL,33.254197,-88.16866,Carrollton,Alabama
+35452,AL,33.249332,-87.67217,Coker,Alabama
+35453,AL,33.170357,-87.39889,Cottondale,Alabama
+35456,AL,33.068806,-87.43974,Duncanville,Alabama
+35457,AL,33.301003,-87.77187,Echola,Alabama
+35458,AL,33.274081,-87.80211,Elrod,Alabama
+35459,AL,32.807280,-88.31069,Emelle,Alabama
+35460,AL,32.716468,-88.15261,Epes,Alabama
+35461,AL,33.421827,-88.22013,Ethelsville,Alabama
+35462,AL,32.931143,-87.93837,Eutaw,Alabama
+35463,AL,33.081289,-87.68988,Fosters,Alabama
+35464,AL,32.811241,-88.16480,Gainesville,Alabama
+35466,AL,33.299935,-87.88368,Gordo,Alabama
+35469,AL,33.012557,-87.79793,Knoxville,Alabama
+35470,AL,32.558949,-88.12485,Livingston,Alabama
+35471,AL,33.402134,-88.14732,Mc Shan,Alabama
+35473,AL,33.260567,-87.58945,Northport,Alabama
+35474,AL,32.962981,-87.61717,Moundville,Alabama
+35475,AL,33.388654,-87.57913,Northport,Alabama
+35476,AL,33.227736,-87.58819,Northport,Alabama
+35477,AL,32.915891,-88.25764,Panola,Alabama
+35480,AL,33.102981,-87.83382,Ralph,Alabama
+35481,AL,33.399471,-88.02086,Reform,Alabama
+35490,AL,33.197284,-87.25156,Vance,Alabama
+354HH,AL,33.163724,-87.69916,city-latitude-87.69916,Alabama
+354XX,AL,32.715432,-87.97760,city-latitude-87.97760,Alabama
+35501,AL,33.828412,-87.27632,Jasper,Alabama
+35503,AL,33.907546,-87.29957,Jasper,Alabama
+35504,AL,33.883566,-87.21250,Jasper,Alabama
+35540,AL,34.223057,-87.17232,Addison,Alabama
+35541,AL,34.059527,-87.18344,Arley,Alabama
+35542,AL,33.703682,-87.67155,Bankston,Alabama
+35543,AL,34.247898,-87.72171,Bear Creek,Alabama
+35544,AL,33.939291,-88.01367,Beaverton,Alabama
+35545,AL,33.641227,-87.92911,Belk,Alabama
+35546,AL,33.628719,-87.58251,Berry,Alabama
+35548,AL,34.043457,-87.75940,Brilliant,Alabama
+35549,AL,33.877980,-87.52728,Carbon Hill,Alabama
+35550,AL,33.754767,-87.16587,Cordova,Alabama
+35552,AL,34.061266,-88.15462,Detroit,Alabama
+35553,AL,34.146713,-87.39317,Double Springs,Alabama
+35554,AL,33.903299,-87.65194,Eldridge,Alabama
+35555,AL,33.681768,-87.83026,Fayette,Alabama
+35559,AL,33.909001,-87.73186,Glen Allen,Alabama
+35563,AL,33.972007,-87.90302,Guin,Alabama
+35564,AL,34.262751,-87.83441,Hackleburg,Alabama
+35565,AL,34.225425,-87.61180,Haleyville,Alabama
+35570,AL,34.149717,-88.00384,Hamilton,Alabama
+35571,AL,34.341907,-87.94612,Hodges,Alabama
+35572,AL,34.166780,-87.26526,Houston,Alabama
+35574,AL,33.586897,-87.97695,Kennedy,Alabama
+35575,AL,34.049426,-87.57065,Lynn,Alabama
+35576,AL,33.581135,-88.10835,Millport,Alabama
+35578,AL,33.971730,-87.45746,Nauvoo,Alabama
+35579,AL,33.673236,-87.37169,Oakman,Alabama
+35580,AL,33.701484,-87.27103,Parrish,Alabama
+35581,AL,34.343017,-87.71277,Phil Campbell,Alabama
+35582,AL,34.448328,-88.12041,Red Bay,Alabama
+35584,AL,33.823683,-87.08699,Sipsey,Alabama
+35585,AL,34.428048,-87.80695,Spruce Pine,Alabama
+35586,AL,33.864591,-88.13117,Sulligent,Alabama
+35587,AL,33.807412,-87.44600,Townley,Alabama
+35592,AL,33.752857,-88.09960,Vernon,Alabama
+35593,AL,34.369264,-88.06745,Vina,Alabama
+35594,AL,33.925454,-87.78949,Winfield,Alabama
+355HH,AL,34.100013,-87.32392,city-latitude-87.32392,Alabama
+355XX,AL,34.327834,-87.44986,city-latitude-87.44986,Alabama
+35601,AL,34.595332,-86.98786,Decatur,Alabama
+35603,AL,34.539072,-86.95732,Decatur,Alabama
+35610,AL,34.944113,-87.24921,Anderson,Alabama
+35611,AL,34.784028,-87.02767,Athens,Alabama
+35613,AL,34.808165,-86.89623,Athens,Alabama
+35614,AL,34.860179,-87.06231,Athens,Alabama
+35616,AL,34.748498,-87.99860,Cherokee,Alabama
+35618,AL,34.665033,-87.30978,Courtland,Alabama
+35619,AL,34.404908,-87.12915,Danville,Alabama
+35620,AL,34.930354,-86.98090,Elkmont,Alabama
+35621,AL,34.334972,-86.71847,Eva,Alabama
+35622,AL,34.340484,-86.89176,Falkville,Alabama
+35630,AL,34.817537,-87.66253,Florence,Alabama
+35633,AL,34.898897,-87.77379,Florence,Alabama
+35634,AL,34.888897,-87.60731,Florence,Alabama
+35640,AL,34.442184,-86.94027,Hartselle,Alabama
+35643,AL,34.648768,-87.20394,Hillsboro,Alabama
+35645,AL,34.904208,-87.50776,Killen,Alabama
+35646,AL,34.660322,-87.53577,Leighton,Alabama
+35647,AL,34.967939,-87.11732,Lester,Alabama
+35648,AL,34.966009,-87.38262,Lexington,Alabama
+35649,AL,34.625704,-86.87840,Mooresville,Alabama
+35650,AL,34.496476,-87.27802,Moulton,Alabama
+35651,AL,34.476048,-87.48875,Mount Hope,Alabama
+35652,AL,34.843309,-87.29937,Rogersville,Alabama
+35653,AL,34.519453,-87.78077,Russellville,Alabama
+35654,AL,34.516472,-87.65265,Russellville,Alabama
+35660,AL,34.759738,-87.69317,Sheffield,Alabama
+35661,AL,34.759947,-87.62705,Muscle Shoals,Alabama
+35670,AL,34.481885,-86.75250,Somerville,Alabama
+35671,AL,34.673730,-86.94986,Tanner,Alabama
+35672,AL,34.642480,-87.41166,Town Creek,Alabama
+35673,AL,34.581591,-87.11884,Trinity,Alabama
+35674,AL,34.700170,-87.71420,Tuscumbia,Alabama
+35677,AL,34.950648,-88.02603,Waterloo,Alabama
+356HH,AL,34.782510,-87.31906,city-latitude-87.31906,Alabama
+356XX,AL,34.339055,-87.39720,city-latitude-87.39720,Alabama
+35739,AL,34.972309,-86.81352,Ardmore,Alabama
+35740,AL,34.943871,-85.73077,Bridgeport,Alabama
+35741,AL,34.720813,-86.48932,Brownsboro,Alabama
+35742,AL,34.813577,-86.80405,Capshaw,Alabama
+35744,AL,34.610055,-85.91553,Dutton,Alabama
+35745,AL,34.929269,-86.20726,Estillfork,Alabama
+35746,AL,34.830058,-85.97048,Fackler,Alabama
+35747,AL,34.500216,-86.27889,Grant,Alabama
+35748,AL,34.710942,-86.38995,Gurley,Alabama
+35749,AL,34.815817,-86.76003,Harvest,Alabama
+35750,AL,34.948321,-86.58988,Hazel Green,Alabama
+35751,AL,34.815033,-86.27258,Hollytree,Alabama
+35752,AL,34.745259,-85.94729,Hollywood,Alabama
+35754,AL,34.520438,-86.61977,Laceys Spring,Alabama
+35755,AL,34.501178,-86.11516,Langston,Alabama
+35756,AL,34.630103,-86.80159,Madison,Alabama
+35757,AL,34.776638,-86.75164,Madison,Alabama
+35758,AL,34.715065,-86.73964,Madison,Alabama
+35759,AL,34.863236,-86.56137,Meridianville,Alabama
+35760,AL,34.541285,-86.39852,New Hope,Alabama
+35761,AL,34.902137,-86.44272,New Market,Alabama
+35763,AL,34.624533,-86.47069,Owens Cross Roads,Alabama
+35764,AL,34.694662,-86.31816,Paint Rock,Alabama
+35765,AL,34.695645,-85.80484,Pisgah,Alabama
+35766,AL,34.842944,-86.23149,Princeton,Alabama
+35768,AL,34.712327,-86.08387,Scottsboro,Alabama
+35769,AL,34.606124,-86.06464,Scottsboro,Alabama
+35771,AL,34.546397,-85.98279,Section,Alabama
+35772,AL,34.877531,-85.84528,Stevenson,Alabama
+35773,AL,34.902670,-86.71367,Toney,Alabama
+35774,AL,34.752369,-86.22634,Trenton,Alabama
+35775,AL,34.550375,-86.70576,Valhermoso Springs,Alabama
+35776,AL,34.664895,-86.23363,Woodville,Alabama
+357HH,AL,34.627130,-86.12504,city-latitude-86.12504,Alabama
+357XX,AL,34.634355,-86.71051,city-latitude-86.71051,Alabama
+35801,AL,34.728790,-86.57316,Huntsville,Alabama
+35802,AL,34.666041,-86.55929,Huntsville,Alabama
+35803,AL,34.603017,-86.54293,Huntsville,Alabama
+35805,AL,34.711291,-86.61691,Huntsville,Alabama
+35806,AL,34.748066,-86.68317,Huntsville,Alabama
+35808,AL,34.623075,-86.66470,Huntsville,Alabama
+35810,AL,34.776240,-86.61339,Huntsville,Alabama
+35811,AL,34.781080,-86.53163,Huntsville,Alabama
+35816,AL,34.739690,-86.62464,Huntsville,Alabama
+35824,AL,34.654126,-86.73987,Huntsville,Alabama
+358HH,AL,34.583728,-86.59332,city-latitude-86.59332,Alabama
+358XX,AL,34.646512,-86.62850,city-latitude-86.62850,Alabama
+35901,AL,34.016747,-85.99282,Gadsden,Alabama
+35903,AL,33.996698,-85.92496,Gadsden,Alabama
+35904,AL,34.032097,-86.03530,Gadsden,Alabama
+35905,AL,33.942031,-85.93993,Gadsden,Alabama
+35906,AL,33.943964,-86.06154,Rainbow City,Alabama
+35907,AL,33.906415,-86.02665,Gadsden,Alabama
+35950,AL,34.261878,-86.22835,Albertville,Alabama
+35951,AL,34.313014,-86.19282,Albertville,Alabama
+35952,AL,34.057496,-86.32225,Altoona,Alabama
+35953,AL,33.825516,-86.24231,Ashville,Alabama
+35954,AL,34.043263,-86.08904,Attalla,Alabama
+35956,AL,34.155318,-86.13237,Boaz,Alabama
+35957,AL,34.203621,-86.17280,Boaz,Alabama
+35958,AL,34.921827,-85.63784,Bryant,Alabama
+35959,AL,34.237989,-85.61277,Cedar Bluff,Alabama
+35960,AL,34.141067,-85.60472,Centre,Alabama
+35961,AL,34.279268,-85.85634,Collinsville,Alabama
+35962,AL,34.297717,-86.03600,Crossville,Alabama
+35963,AL,34.359766,-85.92825,Dawson,Alabama
+35966,AL,34.788306,-85.67642,Flat Rock,Alabama
+35967,AL,34.429472,-85.71078,Fort Payne,Alabama
+35968,AL,34.460537,-85.76744,Fort Payne,Alabama
+35971,AL,34.457657,-85.92772,Fyffe,Alabama
+35972,AL,33.987653,-86.25523,Gallant,Alabama
+35973,AL,34.333048,-85.55172,Gaylesville,Alabama
+35974,AL,34.361787,-86.00980,Geraldine,Alabama
+35975,AL,34.431683,-86.06169,Groveoak,Alabama
+35976,AL,34.350835,-86.30475,Guntersville,Alabama
+35978,AL,34.637589,-85.73274,Henagar,Alabama
+35979,AL,34.831242,-85.61564,Higdon,Alabama
+35980,AL,34.179277,-86.36882,Horton,Alabama
+35981,AL,34.717362,-85.65353,Ider,Alabama
+35983,AL,34.189256,-85.76816,Leesburg,Alabama
+35984,AL,34.557735,-85.57510,Mentone,Alabama
+35986,AL,34.500878,-85.83763,Rainsville,Alabama
+35987,AL,33.911700,-86.24408,Steele,Alabama
+35988,AL,34.568380,-85.79646,Sylvania,Alabama
+35989,AL,34.585200,-85.65125,Valley Head,Alabama
+35990,AL,34.066644,-86.30438,Walnut Grove,Alabama
+359HH,AL,34.068431,-85.90095,city-latitude-85.90095,Alabama
+36003,AL,32.439967,-86.68801,Autaugaville,Alabama
+36005,AL,31.859531,-85.75558,Banks,Alabama
+36006,AL,32.652790,-86.71430,Billingsley,Alabama
+36009,AL,31.579451,-86.31880,Brantley,Alabama
+36010,AL,31.678393,-85.82425,Brundidge,Alabama
+36013,AL,32.295289,-85.99653,Cecil,Alabama
+36016,AL,31.843675,-85.43298,Clayton,Alabama
+36017,AL,31.692576,-85.55787,Clio,Alabama
+36020,AL,32.496067,-86.33073,Coosada,Alabama
+36022,AL,32.612619,-86.39497,Deatsville,Alabama
+36024,AL,32.697561,-86.01600,Eclectic,Alabama
+36025,AL,32.538878,-86.33358,Elmore,Alabama
+36026,AL,32.776549,-86.04770,Equality,Alabama
+36027,AL,31.876168,-85.17362,Eufaula,Alabama
+36028,AL,31.474803,-86.37618,Dozier,Alabama
+36029,AL,32.214818,-85.93281,Fitzpatrick,Alabama
+36030,AL,31.847964,-86.86441,Forest Home,Alabama
+36031,AL,32.251957,-85.73589,Fort Davis,Alabama
+36032,AL,31.984289,-86.57087,Fort Deposit,Alabama
+36033,AL,31.655458,-86.76737,Georgiana,Alabama
+36034,AL,31.637696,-86.13578,Glenwood,Alabama
+36035,AL,31.756986,-86.14489,Goshen,Alabama
+36036,AL,31.985456,-86.15741,Grady,Alabama
+36037,AL,31.800700,-86.60591,Greenville,Alabama
+36039,AL,32.280320,-85.81979,Hardaway,Alabama
+36040,AL,32.182677,-86.66877,Hayneville,Alabama
+36041,AL,31.913456,-86.30083,Highland Home,Alabama
+36042,AL,31.860078,-86.44607,Honoraville,Alabama
+36043,AL,32.223810,-86.39798,Hope Hull,Alabama
+36046,AL,32.025367,-86.34182,Lapine,Alabama
+36047,AL,32.070433,-86.49437,Letohatchee,Alabama
+36048,AL,31.776734,-85.58908,Louisville,Alabama
+36049,AL,31.737407,-86.26946,Luverne,Alabama
+36051,AL,32.682598,-86.47451,Marbury,Alabama
+36052,AL,32.171705,-86.06661,Mathews,Alabama
+36053,AL,32.011153,-85.46827,Midway,Alabama
+36054,AL,32.492335,-86.36692,Millbrook,Alabama
+36064,AL,32.318234,-86.09585,Pike Road,Alabama
+36065,AL,32.042813,-86.05140,Pine Level,Alabama
+36066,AL,32.459435,-86.42746,Prattville,Alabama
+36067,AL,32.488113,-86.52962,Prattville,Alabama
+36069,AL,32.079550,-86.14911,Ramer,Alabama
+36071,AL,31.708837,-86.38617,Rutledge,Alabama
+36075,AL,32.399994,-85.92370,Shorter,Alabama
+36078,AL,32.553036,-85.91360,Tallassee,Alabama
+36079,AL,31.780847,-85.99200,Troy,Alabama
+36080,AL,32.691057,-86.29429,Titus,Alabama
+36081,AL,31.852825,-85.92314,Troy,Alabama
+36083,AL,32.427987,-85.69542,Tuskegee,Alabama
+36088,AL,32.419862,-85.71699,Tuskegee Institute,Alabama
+36089,AL,32.145437,-85.70998,Union Springs,Alabama
+36091,AL,32.759543,-86.51111,Verbena,Alabama
+36092,AL,32.592889,-86.21902,Wetumpka,Alabama
+36093,AL,32.505741,-86.15644,Wetumpka,Alabama
+360HH,AL,32.451844,-85.87781,city-latitude-85.87781,Alabama
+360XX,AL,31.728209,-86.53667,city-latitude-86.53667,Alabama
+36104,AL,32.377509,-86.31068,Montgomery,Alabama
+36105,AL,32.302340,-86.30504,Montgomery,Alabama
+36106,AL,32.354888,-86.27161,Montgomery,Alabama
+36107,AL,32.378138,-86.27905,Montgomery,Alabama
+36108,AL,32.353188,-86.36037,Montgomery,Alabama
+36109,AL,32.386088,-86.24511,Montgomery,Alabama
+36110,AL,32.426372,-86.27007,Montgomery,Alabama
+36111,AL,32.338989,-86.27316,Montgomery,Alabama
+36113,AL,32.359588,-86.34434,Montgomery,Alabama
+36115,AL,32.404754,-86.24963,Montgomery,Alabama
+36116,AL,32.313240,-86.23672,Montgomery,Alabama
+36117,AL,32.373714,-86.16443,Montgomery,Alabama
+361HH,AL,32.384675,-86.32983,city-latitude-86.32983,Alabama
+36201,AL,33.658803,-85.85178,Anniston,Alabama
+36203,AL,33.591301,-85.83571,Oxford,Alabama
+36205,AL,33.711314,-85.78527,Anniston,Alabama
+36206,AL,33.719701,-85.83166,Anniston,Alabama
+36207,AL,33.651673,-85.75895,Anniston,Alabama
+36250,AL,33.766057,-85.88969,Alexandria,Alabama
+36251,AL,33.243964,-85.84503,Ashland,Alabama
+36255,AL,33.185338,-85.72548,Cragford,Alabama
+36256,AL,33.032076,-85.69962,Daviston,Alabama
+36258,AL,33.473789,-85.71409,Delta,Alabama
+36260,AL,33.593189,-85.99551,Eastaboga,Alabama
+36262,AL,33.761052,-85.45227,Fruithurst,Alabama
+36263,AL,33.469709,-85.36139,Graham,Alabama
+36264,AL,33.613541,-85.55457,Heflin,Alabama
+36265,AL,33.824496,-85.77037,Jacksonville,Alabama
+36266,AL,33.328958,-85.72073,Lineville,Alabama
+36267,AL,33.200704,-85.94159,Millerville,Alabama
+36268,AL,33.511790,-85.94756,Munford,Alabama
+36269,AL,33.740158,-85.37813,Muscadine,Alabama
+36270,AL,33.423088,-85.47202,Newell,Alabama
+36271,AL,33.799330,-86.02860,Ohatchee,Alabama
+36272,AL,33.948018,-85.61491,Piedmont,Alabama
+36273,AL,33.535491,-85.36312,Ranburne,Alabama
+36274,AL,33.159848,-85.36865,Roanoke,Alabama
+36276,AL,33.142612,-85.57418,Wadley,Alabama
+36277,AL,33.754308,-85.81991,Weaver,Alabama
+36278,AL,33.338853,-85.50900,Wedowee,Alabama
+36279,AL,33.862349,-85.89512,Wellington,Alabama
+36280,AL,33.366136,-85.36501,Woodland,Alabama
+362HH,AL,33.279589,-85.61856,city-latitude-85.61856,Alabama
+362XX,AL,33.711116,-85.88805,city-latitude-85.88805,Alabama
+36301,AL,31.180076,-85.40450,Dothan,Alabama
+36303,AL,31.249042,-85.40605,Dothan,Alabama
+36305,AL,31.214832,-85.47402,Dothan,Alabama
+36310,AL,31.599256,-85.20940,Abbeville,Alabama
+36311,AL,31.589226,-85.69097,Ariton,Alabama
+36312,AL,31.178688,-85.24290,Ashford,Alabama
+36313,AL,31.174249,-85.79562,Bellwood,Alabama
+36314,AL,31.013308,-85.75742,Black,Alabama
+36316,AL,31.172641,-85.86482,Chancellor,Alabama
+36317,AL,31.645125,-85.37812,Clopton,Alabama
+36318,AL,31.167820,-85.94917,Coffee Springs,Alabama
+36319,AL,31.312599,-85.14456,Columbia,Alabama
+36320,AL,31.051843,-85.31561,Cottonwood,Alabama
+36322,AL,31.284499,-85.72111,Daleville,Alabama
+36323,AL,31.428389,-86.07271,Elba,Alabama
+36330,AL,31.325790,-85.84117,Enterprise,Alabama
+36340,AL,31.043454,-85.87941,Geneva,Alabama
+36343,AL,31.087556,-85.13116,Gordon,Alabama
+36344,AL,31.096994,-85.70010,Hartford,Alabama
+36345,AL,31.381263,-85.31490,Headland,Alabama
+36346,AL,31.567171,-85.93102,Jack,Alabama
+36350,AL,31.319083,-85.48718,Midland City,Alabama
+36351,AL,31.406536,-85.91750,New Brockton,Alabama
+36352,AL,31.262955,-85.60789,Newton,Alabama
+36353,AL,31.453069,-85.36241,Newville,Alabama
+36360,AL,31.447119,-85.62908,Ozark,Alabama
+36362,AL,31.352676,-85.70509,Fort Rucker,Alabama
+36370,AL,31.141962,-85.15675,Pansey,Alabama
+36371,AL,31.312010,-85.54722,Pinckard,Alabama
+36373,AL,31.521510,-85.11460,Shorterville,Alabama
+36374,AL,31.569287,-85.48581,Skipperville,Alabama
+36375,AL,31.096836,-85.54403,Slocomb,Alabama
+36376,AL,31.243717,-85.27681,Webb,Alabama
+363HH,AL,31.083599,-85.83201,city-latitude-85.83201,Alabama
+36401,AL,31.461019,-86.96271,Evergreen,Alabama
+36420,AL,31.279043,-86.48699,Andalusia,Alabama
+36425,AL,31.737883,-87.17442,Beatrice,Alabama
+36426,AL,31.129008,-87.10173,Brewton,Alabama
+36432,AL,31.291038,-87.03109,Castleberry,Alabama
+36435,AL,31.874887,-87.43110,Coy,Alabama
+36436,AL,31.756797,-87.64500,Dickinson,Alabama
+36441,AL,31.023139,-87.23957,Flomaton,Alabama
+36442,AL,31.042071,-86.34347,Florala,Alabama
+36444,AL,31.638570,-87.46772,Franklin,Alabama
+36445,AL,31.429994,-87.41631,Frisco City,Alabama
+36446,AL,31.786539,-87.72688,Fulton,Alabama
+36451,AL,31.704736,-87.77773,Grove Hill,Alabama
+36453,AL,31.203287,-86.15169,Kinston,Alabama
+36455,AL,31.011435,-86.35065,Lockhart,Alabama
+36456,AL,31.546680,-86.77355,Mc Kenzie,Alabama
+36460,AL,31.509039,-87.32416,Monroeville,Alabama
+36467,AL,31.280048,-86.25484,Opp,Alabama
+36470,AL,31.514262,-87.50401,Perdue Hill,Alabama
+36471,AL,31.612646,-87.24886,Peterman,Alabama
+36473,AL,31.306814,-87.20327,Range,Alabama
+36474,AL,31.416059,-86.61397,Red Level,Alabama
+36475,AL,31.410205,-87.22474,Repton,Alabama
+36476,AL,31.356774,-86.54879,River Falls,Alabama
+36477,AL,31.091359,-86.04782,Samson,Alabama
+36480,AL,31.320897,-87.59607,Uriah,Alabama
+36481,AL,31.821448,-87.34313,Vredenburgh,Alabama
+36482,AL,31.614138,-87.63373,Whatley,Alabama
+36483,AL,31.031830,-86.70207,Wing,Alabama
+364HH,AL,31.177782,-86.76855,city-latitude-86.76855,Alabama
+364XX,AL,31.238967,-87.02213,city-latitude-87.02213,Alabama
+36501,AL,31.463968,-87.73883,Alma,Alabama
+36502,AL,31.090528,-87.49715,Atmore,Alabama
+36505,AL,30.930065,-88.00103,Axis,Alabama
+36507,AL,30.875697,-87.76592,Bay Minette,Alabama
+36509,AL,30.401384,-88.24671,Bayou La Batre,Alabama
+36511,AL,30.312316,-87.73468,Bon Secour,Alabama
+36513,AL,31.161966,-87.99588,Calvert,Alabama
+36515,AL,31.375467,-87.78506,Carlton,Alabama
+36518,AL,31.463383,-88.26781,Chatom,Alabama
+36521,AL,30.965694,-88.18697,Chunchula,Alabama
+36522,AL,31.075300,-88.26330,Citronelle,Alabama
+36523,AL,30.383724,-88.18466,Coden,Alabama
+36524,AL,31.790834,-88.06933,Coffeeville,Alabama
+36525,AL,30.886317,-88.02806,Creola,Alabama
+36526,AL,30.620594,-87.88312,Daphne,Alabama
+36527,AL,30.684873,-87.89723,Spanish Fort,Alabama
+36528,AL,30.250825,-88.11819,Dauphin Island,Alabama
+36529,AL,31.309194,-88.26036,Deer Park,Alabama
+36530,AL,30.377657,-87.56159,Elberta,Alabama
+36532,AL,30.512458,-87.88559,Fairhope,Alabama
+36535,AL,30.396876,-87.69616,Foley,Alabama
+36538,AL,31.646087,-88.14188,Frankville,Alabama
+36539,AL,31.375241,-88.41557,Fruitdale,Alabama
+36540,AL,31.453836,-87.64373,Gainestown,Alabama
+36541,AL,30.487783,-88.32722,Grand Bay,Alabama
+36542,AL,30.262276,-87.72784,Gulf Shores,Alabama
+36544,AL,30.479171,-88.23793,Irvington,Alabama
+36545,AL,31.508231,-87.88346,Jackson,Alabama
+36548,AL,31.495691,-87.96260,Leroy,Alabama
+36549,AL,30.393983,-87.45664,Lillian,Alabama
+36550,AL,31.242801,-87.76099,Little River,Alabama
+36551,AL,30.631600,-87.75299,Loxley,Alabama
+36553,AL,31.234589,-88.08089,Mc Intosh,Alabama
+36556,AL,31.213801,-87.96228,Malcolm,Alabama
+36558,AL,31.629578,-88.34737,Millry,Alabama
+36559,AL,30.564701,-87.90216,Montrose,Alabama
+36560,AL,31.088463,-88.03007,Mount Vernon,Alabama
+36561,AL,30.291503,-87.56198,Orange Beach,Alabama
+36562,AL,31.021335,-87.64417,Perdido,Alabama
+36564,AL,30.471767,-87.91874,Point Clear,Alabama
+36567,AL,30.582200,-87.63936,Robertsdale,Alabama
+36569,AL,31.529488,-88.06349,Saint Stephens,Alabama
+36570,AL,31.613745,-88.01381,Salitpa,Alabama
+36571,AL,30.831636,-88.09386,Saraland,Alabama
+36572,AL,30.857435,-88.05414,Satsuma,Alabama
+36574,AL,30.511685,-87.46860,Seminole,Alabama
+36575,AL,30.766350,-88.26553,Semmes,Alabama
+36576,AL,30.540664,-87.75490,Silverhill,Alabama
+36577,AL,30.668757,-87.93971,Spanish Fort,Alabama
+36578,AL,30.744745,-87.81486,Stapleton,Alabama
+36579,AL,31.126122,-87.80317,Stockton,Alabama
+36580,AL,30.485351,-87.71292,Summerdale,Alabama
+36581,AL,31.373999,-87.99791,Sunflower,Alabama
+36582,AL,30.533744,-88.16865,Theodore,Alabama
+36583,AL,31.352090,-88.20879,Tibbie,Alabama
+36584,AL,31.202048,-88.38071,Vinegar Bend,Alabama
+36585,AL,31.381220,-88.02433,Wagarville,Alabama
+36587,AL,30.828988,-88.35079,Wilmer,Alabama
+365HH,AL,30.659890,-87.93091,city-latitude-87.93091,Alabama
+365XX,AL,31.219771,-87.92633,city-latitude-87.92633,Alabama
+36602,AL,30.693389,-88.04416,Mobile,Alabama
+36603,AL,30.688457,-88.05341,Mobile,Alabama
+36604,AL,30.681640,-88.06676,Mobile,Alabama
+36605,AL,30.641191,-88.08222,Mobile,Alabama
+36606,AL,30.674057,-88.10249,Mobile,Alabama
+36607,AL,30.699539,-88.10474,Mobile,Alabama
+36608,AL,30.690440,-88.19701,Mobile,Alabama
+36609,AL,30.662735,-88.16255,Mobile,Alabama
+36610,AL,30.737405,-88.08201,Mobile,Alabama
+36611,AL,30.764938,-88.08505,Mobile,Alabama
+36612,AL,30.753155,-88.11116,Mobile,Alabama
+36613,AL,30.795637,-88.15770,Eight Mile,Alabama
+36617,AL,30.717539,-88.09609,Mobile,Alabama
+36618,AL,30.728488,-88.16845,Mobile,Alabama
+36619,AL,30.586808,-88.18552,Mobile,Alabama
+36693,AL,30.630441,-88.15397,Mobile,Alabama
+36695,AL,30.646415,-88.23657,Mobile,Alabama
+366HH,AL,30.629458,-88.09946,city-latitude-88.09946,Alabama
+36701,AL,32.429066,-87.03809,Selma,Alabama
+36703,AL,32.419846,-86.97783,Selma,Alabama
+36720,AL,32.170653,-87.36217,Alberta,Alabama
+36722,AL,32.079894,-87.57551,Arlington,Alabama
+36723,AL,32.088460,-87.28018,Boykin,Alabama
+36726,AL,32.008444,-87.25911,Camden,Alabama
+36727,AL,31.910694,-88.03148,Campbell,Alabama
+36728,AL,32.147166,-87.45675,Catherine,Alabama
+36732,AL,32.495484,-87.84521,Demopolis,Alabama
+36736,AL,32.069338,-87.77893,Dixons Mills,Alabama
+36738,AL,32.417860,-87.62729,Faunsdale,Alabama
+36740,AL,32.629096,-87.84004,Forkland,Alabama
+36742,AL,32.454007,-87.75003,Gallion,Alabama
+36744,AL,32.703529,-87.60177,Greensboro,Alabama
+36748,AL,32.297441,-87.78812,Linden,Alabama
+36749,AL,32.548960,-86.87897,Jones,Alabama
+36750,AL,32.789726,-86.84960,Maplesville,Alabama
+36751,AL,31.833493,-87.55005,Lower Peach Tree,Alabama
+36752,AL,32.322266,-86.64395,Lowndesboro,Alabama
+36754,AL,32.140637,-87.68010,Magnolia,Alabama
+36756,AL,32.665966,-87.33889,Marion,Alabama
+36758,AL,32.639376,-86.91034,Plantersville,Alabama
+36759,AL,32.420138,-87.27857,Marion Junction,Alabama
+36761,AL,32.080532,-86.95524,Minter,Alabama
+36763,AL,32.249718,-87.96332,Myrtlewood,Alabama
+36765,AL,32.594818,-87.53543,Newbern,Alabama
+36767,AL,32.291650,-87.23168,Orrville,Alabama
+36768,AL,31.901412,-86.95505,Pine Apple,Alabama
+36769,AL,31.990494,-87.55222,Pine Hill,Alabama
+36773,AL,32.291429,-87.39972,Safford,Alabama
+36775,AL,32.213369,-86.98313,Sardis,Alabama
+36776,AL,32.739091,-87.74170,Sawyerville,Alabama
+36779,AL,32.701812,-87.17423,Sprott,Alabama
+36782,AL,32.114999,-87.90187,Sweet Water,Alabama
+36783,AL,32.263473,-87.60214,Thomaston,Alabama
+36784,AL,31.936003,-87.77013,Thomasville,Alabama
+36785,AL,32.282192,-86.82160,Tyler,Alabama
+36786,AL,32.440868,-87.49657,Uniontown,Alabama
+36790,AL,32.731866,-86.90004,Stanton,Alabama
+36792,AL,32.917983,-86.89046,Randolph,Alabama
+36793,AL,32.838805,-86.99911,Lawley,Alabama
+367HH,AL,32.164757,-87.38532,city-latitude-87.38532,Alabama
+367XX,AL,32.231245,-87.36672,city-latitude-87.36672,Alabama
+36801,AL,32.660497,-85.39917,Opelika,Alabama
+36804,AL,32.556296,-85.33465,Opelika,Alabama
+36830,AL,32.577135,-85.47282,Auburn,Alabama
+36832,AL,32.589553,-85.53991,Auburn,Alabama
+36849,AL,32.602434,-85.48580,Auburn University,Alabama
+36850,AL,32.799998,-85.64621,Camp Hill,Alabama
+36852,AL,32.745844,-85.28076,Cusseta,Alabama
+36853,AL,32.787441,-85.79955,Dadeville,Alabama
+36854,AL,32.777662,-85.17623,Valley,Alabama
+36855,AL,33.046756,-85.30102,Five Points,Alabama
+36856,AL,32.282085,-84.98389,Fort Mitchell,Alabama
+36858,AL,32.297792,-85.31205,Hatchechubbee,Alabama
+36860,AL,32.237339,-85.41029,Hurtsboro,Alabama
+36861,AL,32.862333,-85.84588,Jacksons Gap,Alabama
+36862,AL,32.903922,-85.42905,Lafayette,Alabama
+36863,AL,32.871306,-85.21314,Lanett,Alabama
+36866,AL,32.551474,-85.69859,Notasulga,Alabama
+36867,AL,32.492304,-85.01943,Phenix City,Alabama
+36869,AL,32.433065,-85.04512,Phenix City,Alabama
+36870,AL,32.484671,-85.07520,Phenix City,Alabama
+36871,AL,32.168270,-85.11621,Pittsview,Alabama
+36874,AL,32.587751,-85.18539,Salem,Alabama
+36875,AL,32.315128,-85.11348,Seale,Alabama
+36877,AL,32.545138,-85.09212,Smiths Station,Alabama
+36879,AL,32.733511,-85.55322,Waverly,Alabama
+368HH,AL,32.737220,-85.74820,city-latitude-85.74820,Alabama
+36901,AL,32.451618,-88.13100,Bellamy,Alabama
+36904,AL,32.097363,-88.22647,Butler,Alabama
+36907,AL,32.403275,-88.36252,Cuba,Alabama
+36908,AL,31.891177,-88.28508,Gilbertown,Alabama
+36910,AL,32.220752,-88.15471,Jachin,Alabama
+36912,AL,32.227905,-88.32468,Lisman,Alabama
+36915,AL,31.970871,-88.34902,Needham,Alabama
+36916,AL,32.209381,-88.05965,Pennington,Alabama
+36919,AL,31.779344,-88.30045,Silas,Alabama
+36921,AL,31.969580,-88.18661,Toxey,Alabama
+36922,AL,32.304709,-88.17081,Ward,Alabama
+36925,AL,32.487726,-88.26790,York,Alabama
+369HH,AL,32.069482,-88.08096,city-latitude-88.08096,Alabama
+369XX,AL,32.361096,-88.14029,city-latitude-88.14029,Alabama
+38852,AL,34.803864,-88.10205,Iuka,Alabama
+99501,AK,61.216799,-149.87828,Anchorage,Alaska
+99502,AK,61.153693,-149.95932,Anchorage,Alaska
+99503,AK,61.190260,-149.89341,Anchorage,Alaska
+99504,AK,61.204466,-149.74633,Anchorage,Alaska
+99505,AK,61.261518,-149.66336,Fort,Alaska
+99506,AK,61.224384,-149.77461,Elmendorf,Alaska
+99507,AK,61.154834,-149.82865,Anchorage,Alaska
+99508,AK,61.203953,-149.81440,Anchorage,Alaska
+99513,AK,61.214877,-149.88617,Anchorage,Alaska
+99515,AK,61.122943,-149.88852,Anchorage,Alaska
+99516,AK,61.101142,-149.77311,Anchorage,Alaska
+99517,AK,61.188276,-149.93438,Anchorage,Alaska
+99518,AK,61.156565,-149.88335,Anchorage,Alaska
+99540,AK,60.973454,-149.45830,Indian,Alaska
+99546,AK,51.879570,-176.63675,Adak,Alaska
+99547,AK,52.227555,-174.19628,Atka,Alaska
+99548,AK,56.252156,-158.74638,Chignik Lake,Alaska
+99549,AK,56.946256,-158.62832,Port,Alaska
+99550,AK,57.867089,-152.88568,Port Lions,Alaska
+99551,AK,60.889810,-161.42393,Akiachak,Alaska
+99552,AK,60.911865,-161.22577,Akiak,Alaska
+99553,AK,54.098693,-165.88176,Akutan,Alaska
+99554,AK,62.683391,-164.65455,Alakanuk,Alaska
+99555,AK,59.269535,-158.62458,Aleknagik,Alaska
+99556,AK,59.798363,-151.73566,Nikolaevsk,Alaska
+99557,AK,61.570981,-158.88072,Chuathbaluk,Alaska
+99558,AK,62.632905,-160.21336,Anvik,Alaska
+99559,AK,60.766603,-161.88006,Atmautluak,Alaska
+99561,AK,60.143735,-164.25283,Chefornak,Alaska
+99563,AK,61.527953,-165.57029,Chevak,Alaska
+99564,AK,56.298297,-158.40440,Chignik,Alaska
+99565,AK,56.307535,-158.53502,Chignik,Alaska
+99566,AK,61.555701,-144.14233,Chitina,Alaska
+99567,AK,61.413717,-149.42644,Chugiak,Alaska
+99568,AK,60.234580,-151.39340,Clam,Alaska
+99569,AK,58.832560,-158.55254,Clarks,Alaska
+99571,AK,55.315003,-162.63400,Nelson,Alaska
+99572,AK,60.484146,-149.78153,Cooper,Alaska
+99573,AK,61.832347,-145.23080,Copper,Alaska
+99574,AK,60.474512,-145.40256,Chenega,Alaska
+99575,AK,61.859821,-158.12888,Crooked,Alaska
+99576,AK,59.068709,-158.44407,Koliganek,Alaska
+99577,AK,61.310222,-149.51689,Eagle,Alaska
+99578,AK,60.214239,-162.03799,Eek,Alaska
+99579,AK,58.217621,-157.34841,Egegik,Alaska
+99580,AK,59.360233,-157.48380,Ekwok,Alaska
+99581,AK,62.729019,-164.29917,Emmonak,Alaska
+99583,AK,54.849999,-163.42011,False,Alaska
+99585,AK,61.878073,-162.08481,Marshall,Alaska
+99586,AK,62.667589,-144.49059,Slana,Alaska
+99587,AK,60.952049,-149.08380,Girdwood,Alaska
+99588,AK,62.120420,-145.58592,Glennallen,Alaska
+99589,AK,59.125873,-161.59999,Goodnews,Alaska
+99590,AK,62.908130,-160.06675,Grayling,Alaska
+99591,AK,56.605546,-169.55958,Saint,Alaska
+995HH,AK,61.198519,-146.93673,city-latitude-146.93673,Alaska
+995XX,AK,60.003158,-156.08723,city-latitude-156.08723,Alaska
+99602,AK,62.198048,-159.77341,Holy,Alaska
+99603,AK,59.665074,-151.44930,Port,Alaska
+99604,AK,61.528980,-166.09619,Hooper,Alaska
+99605,AK,60.911003,-149.62708,Hope,Alaska
+99606,AK,59.748806,-154.81240,Kokhanok,Alaska
+99607,AK,61.535511,-160.30165,Kalskag,Alaska
+99608,AK,57.578081,-154.36255,Karluk,Alaska
+99609,AK,60.873178,-162.51960,Kasigluk,Alaska
+99610,AK,60.318451,-151.28948,Kasilof,Alaska
+99611,AK,60.587598,-151.23355,Kenai,Alaska
+99612,AK,55.063736,-162.31240,King,Alaska
+99613,AK,58.687446,-156.64007,Igiugig,Alaska
+99614,AK,59.937619,-164.04392,Kipnuk,Alaska
+99615,AK,57.746630,-152.51142,Akhiok,Alaska
+99620,AK,62.945434,-163.76142,Kotlik,Alaska
+99621,AK,60.810509,-161.42190,Kwethluk,Alaska
+99622,AK,59.870295,-163.16752,Kwigillingok,Alaska
+99624,AK,57.529161,-154.00286,Larsen Bay,Alaska
+99625,AK,59.116273,-156.84802,Levelock,Alaska
+99626,AK,61.518175,-160.37019,Lower,Alaska
+99627,AK,62.949140,-155.57265,Mcgrath,Alaska
+99628,AK,58.981087,-159.05580,Manokotak,Alaska
+99630,AK,60.364246,-166.28601,Mekoryuk,Alaska
+99631,AK,60.499602,-149.40247,Moose,Alaska
+99632,AK,62.090075,-163.72393,Mountain,Alaska
+99633,AK,58.745436,-156.95331,Naknek,Alaska
+99634,AK,60.695049,-161.99090,Napakiak,Alaska
+99635,AK,60.784804,-151.06473,Nikiski,Alaska
+99636,AK,59.452339,-157.31368,New,Alaska
+99637,AK,60.532936,-165.10529,Toksook Bay,Alaska
+99638,AK,52.785684,-169.19469,Nikolski,Alaska
+99639,AK,59.992821,-151.54194,Ninilchik,Alaska
+99640,AK,59.971286,-154.85008,Nondalton,Alaska
+99641,AK,60.898967,-162.43712,Nunapitchuk,Alaska
+99643,AK,57.199260,-153.30438,Old Harbor,Alaska
+99644,AK,57.929664,-152.46085,Ouzinkie,Alaska
+99645,AK,61.598203,-149.04109,Butte,Alaska
+99647,AK,59.781241,-154.10833,Pedro,Alaska
+99648,AK,55.910760,-159.15591,Perryville,Alaska
+99649,AK,57.508178,-157.39907,Pilot,Alaska
+99650,AK,61.936050,-162.88340,Pilot,Alaska
+99651,AK,59.006890,-161.81529,Platinum,Alaska
+99652,AK,61.556311,-149.89098,Big Lake,Alaska
+99653,AK,60.102331,-154.55708,Port,Alaska
+99654,AK,61.580187,-149.48821,Wasilla,Alaska
+99655,AK,59.754016,-161.90079,Quinhagak,Alaska
+99656,AK,61.810587,-157.34370,Red,Alaska
+99657,AK,61.785228,-161.36476,Russian,Alaska
+99658,AK,62.048263,-163.19370,Saint,Alaska
+99659,AK,63.477448,-162.03841,Saint,Alaska
+99660,AK,57.130894,-170.27203,Saint,Alaska
+99661,AK,55.311735,-160.48813,Sand,Alaska
+99662,AK,61.783788,-165.53972,Scammon,Alaska
+99663,AK,59.422698,-151.71513,Seldovia,Alaska
+99664,AK,60.151652,-149.41271,Seward,Alaska
+99665,AK,62.655998,-159.53113,Shageluk,Alaska
+99666,AK,62.495675,-164.97188,Nunam Iqua,Alaska
+99667,AK,61.898872,-151.51587,Skwentna,Alaska
+99668,AK,61.683931,-157.15202,Sleetmute,Alaska
+99669,AK,60.489536,-151.02091,Soldotna,Alaska
+99670,AK,58.711630,-157.01746,South,Alaska
+99671,AK,63.511893,-162.27463,Stebbins,Alaska
+99672,AK,60.532394,-150.74033,Sterling,Alaska
+99674,AK,61.751348,-148.69632,Sutton,Alaska
+99675,AK,62.969642,-156.10264,Takotna,Alaska
+99676,AK,62.298254,-149.87542,Talkeetna,Alaska
+99677,AK,60.863764,-146.68013,Tatitlek,Alaska
+99678,AK,59.101934,-160.50353,Togiak,Alaska
+99679,AK,61.102912,-160.96325,Tuluksak,Alaska
+99680,AK,60.343879,-162.66587,Tuntutuliak,Alaska
+99681,AK,60.582127,-165.25645,Tununak,Alaska
+99682,AK,61.067777,-151.14169,Tyonek,Alaska
+99683,AK,62.415294,-150.37044,Trapper,Alaska
+99684,AK,63.882081,-160.76294,Unalakleet,Alaska
+99685,AK,53.872017,-166.52287,Unalaska,Alaska
+99686,AK,61.128176,-146.23570,Valdez,Alaska
+99687,AK,61.391728,-149.99002,Wasilla,Alaska
+99688,AK,61.796774,-150.07792,Willow,Alaska
+99689,AK,59.538728,-139.71052,Yakutat,Alaska
+99690,AK,60.527618,-164.81976,Nightmute,Alaska
+99691,AK,62.999213,-154.41957,Nikolai,Alaska
+99692,AK,53.883729,-166.54850,Dutch,Alaska
+99693,AK,60.639257,-148.54211,Whittier,Alaska
+99694,AK,61.629635,-149.79507,Houston,Alaska
+99695,AK,61.402544,-150.57485,Anchorage,Alaska
+99697,AK,57.564289,-153.40755,Kodiak,Alaska
+996HH,AK,59.724281,-150.46488,city-latitude-150.46488,Alaska
+996XX,AK,60.938037,-153.43502,city-latitude-153.43502,Alaska
+99701,AK,64.835070,-147.72045,Coldfoot,Alaska
+99702,AK,64.661627,-147.02121,Eielson,Alaska
+99703,AK,64.827164,-147.62650,Fort,Alaska
+99704,AK,64.289856,-149.17778,Clear,Alaska
+99705,AK,64.777233,-147.36490,North,Alaska
+99709,AK,64.854937,-147.87406,Fairbanks,Alaska
+99712,AK,64.926041,-147.49573,Fairbanks,Alaska
+99714,AK,64.464105,-146.91648,Salcha,Alaska
+99720,AK,66.557586,-152.65590,Allakaket,Alaska
+99721,AK,68.148216,-151.72854,Anaktuvuk,Alaska
+99722,AK,68.121828,-145.52768,Arctic,Alaska
+99723,AK,71.299525,-156.74891,Barrow,Alaska
+99724,AK,66.359719,-147.39743,Beaver,Alaska
+99725,AK,64.842326,-148.02197,Ester,Alaska
+99726,AK,66.917381,-151.50508,Bettles,Alaska
+99727,AK,65.979144,-161.12225,Buckland,Alaska
+99729,AK,63.255516,-148.39873,Cantwell,Alaska
+99730,AK,65.551022,-144.71982,Central,Alaska
+99732,AK,64.070738,-141.87489,Chicken,Alaska
+99733,AK,65.796306,-144.06388,Circle,Alaska
+99736,AK,66.075713,-162.71822,Deering,Alaska
+99737,AK,63.978355,-145.46230,Dot,Alaska
+99738,AK,64.778099,-141.19257,Eagle,Alaska
+99739,AK,64.620513,-162.27718,Elim,Alaska
+99740,AK,66.566652,-145.28231,Fort,Alaska
+99741,AK,64.739082,-156.89456,Galena,Alaska
+99742,AK,63.776098,-171.70088,Gambell,Alaska
+99743,AK,64.010218,-149.10712,Healy,Alaska
+99744,AK,64.349263,-149.19265,Anderson,Alaska
+99745,AK,66.044094,-154.25703,Hughes,Alaska
+99746,AK,65.701858,-156.38713,Huslia,Alaska
+99747,AK,70.133460,-143.62436,Kaktovik,Alaska
+99748,AK,64.324887,-158.73204,Kaltag,Alaska
+99749,AK,66.971720,-160.43016,Kiana,Alaska
+99750,AK,67.733313,-164.54522,Kivalina,Alaska
+99751,AK,66.908604,-156.88828,Kobuk,Alaska
+99752,AK,66.897192,-162.58544,Kotzebue,Alaska
+99753,AK,64.932225,-161.15597,Koyuk,Alaska
+99754,AK,64.881745,-157.70439,Koyukuk,Alaska
+99755,AK,63.657441,-148.83396,Denali National,Alaska
+99756,AK,65.021337,-150.50318,Manley Hot Sprin,Alaska
+99757,AK,63.893902,-152.30201,Lake Minchumina,Alaska
+99758,AK,65.152583,-149.39156,Minto,Alaska
+99759,AK,69.741023,-163.00861,Point Lay,Alaska
+99760,AK,64.560888,-149.07674,Nenana,Alaska
+99761,AK,67.572031,-162.97508,Noatak,Alaska
+99762,AK,64.532616,-165.10883,Golovin,Alaska
+99763,AK,66.837130,-161.03664,Noorvik,Alaska
+99764,AK,62.980725,-141.82852,Northway,Alaska
+99765,AK,64.730035,-158.11178,Nulato,Alaska
+99766,AK,68.347052,-166.76291,Point Hope,Alaska
+99767,AK,65.507883,-150.16360,Rampart,Alaska
+99768,AK,64.737306,-155.48769,Ruby,Alaska
+99769,AK,63.686038,-170.40870,Savoonga,Alaska
+99770,AK,66.597998,-160.01772,Selawik,Alaska
+99771,AK,64.343258,-161.16785,Shaktoolik,Alaska
+99772,AK,66.259417,-165.73202,Shishmaref,Alaska
+99773,AK,66.887401,-157.14287,Shungnak,Alaska
+99774,AK,66.005296,-149.10303,Stevens Village,Alaska
+99775,AK,64.860846,-147.82681,Fairbanks,Alaska
+99776,AK,63.376206,-143.35699,Tanacross,Alaska
+99777,AK,65.172029,-152.08258,Tanana,Alaska
+99778,AK,65.250432,-166.35474,Teller,Alaska
+99779,AK,63.135294,-142.53230,Tetlin,Alaska
+99780,AK,63.341767,-142.93704,Border,Alaska
+99781,AK,67.015569,-146.41736,Venetie,Alaska
+99782,AK,70.640902,-160.02481,Wainwright,Alaska
+99783,AK,65.612116,-168.08928,Wales,Alaska
+99784,AK,64.684323,-163.44257,White Mountain,Alaska
+99785,AK,65.342744,-166.51023,Brevig Mission,Alaska
+99786,AK,67.083658,-157.86225,Ambler,Alaska
+99788,AK,66.653222,-143.72717,Chalkyitsik,Alaska
+99789,AK,70.215197,-151.02746,Nuiqsut,Alaska
+99791,AK,70.477663,-157.41805,Atqasuk,Alaska
+997HH,AK,64.815413,-141.17680,city-latitude-141.17680,Alaska
+997XX,AK,66.360999,-152.61510,city-latitude-152.61510,Alaska
+99801,AK,58.358599,-134.54749,Juneau,Alaska
+99820,AK,57.487650,-134.57222,Angoon,Alaska
+99824,AK,58.276192,-134.39781,Douglas,Alaska
+99825,AK,58.068878,-136.27833,Elfin Cove,Alaska
+99826,AK,58.434052,-135.73088,Gustavus,Alaska
+99827,AK,59.279037,-135.61220,Haines,Alaska
+99829,AK,58.109608,-135.43154,Hoonah,Alaska
+99830,AK,56.975011,-133.93230,Kake,Alaska
+99832,AK,57.959709,-136.22032,Pelican,Alaska
+99833,AK,56.784206,-132.97354,Petersburg,Alaska
+99835,AK,57.064376,-135.32270,Sitka,Alaska
+99840,AK,59.465159,-135.31355,Skagway,Alaska
+99841,AK,57.777622,-135.20777,Tenakee Springs,Alaska
+99850,AK,58.411303,-135.40874,Juneau,Alaska
+998HH,AK,58.544293,-134.52202,city-latitude-134.52202,Alaska
+998XX,AK,57.666184,-134.94785,city-latitude-134.94785,Alaska
+99901,AK,55.368644,-131.67620,Ketchikan,Alaska
+99903,AK,55.742045,-132.25002,Meyers Chuck,Alaska
+99918,AK,56.009124,-132.82018,Coffman Cove,Alaska
+99919,AK,55.677232,-132.55624,Thorne Bay,Alaska
+99921,AK,55.456449,-133.02648,Craig,Alaska
+99922,AK,55.209339,-132.82545,Hydaburg,Alaska
+99923,AK,55.941442,-130.05450,Hyder,Alaska
+99925,AK,55.555164,-133.07316,Klawock,Alaska
+99926,AK,55.123897,-131.56883,Metlakatla,Alaska
+99927,AK,56.337957,-133.60689,Point Baker,Alaska
+99929,AK,56.409507,-132.33822,Wrangell,Alaska
+99950,AK,55.875767,-131.46633,Ketchikan,Alaska
+999HH,AK,55.539963,-132.28885,city-latitude-132.28885,Alaska
+999XX,AK,55.616026,-132.54936,city-latitude-132.54936,Alaska
+84536,AZ,36.990184,-110.21230,Monument Valley,Arizona
+85003,AZ,33.451143,-112.07838,Phoenix,Arizona
+85004,AZ,33.451093,-112.07057,Phoenix,Arizona
+85006,AZ,33.466392,-112.04875,Phoenix,Arizona
+85007,AZ,33.449995,-112.09024,Phoenix,Arizona
+85008,AZ,33.466393,-112.00080,Phoenix,Arizona
+85009,AZ,33.456350,-112.12378,Phoenix,Arizona
+85012,AZ,33.505251,-112.07030,Phoenix,Arizona
+85013,AZ,33.507110,-112.08483,Phoenix,Arizona
+85014,AZ,33.511325,-112.05711,Phoenix,Arizona
+85015,AZ,33.506890,-112.10262,Phoenix,Arizona
+85016,AZ,33.503742,-112.03235,Phoenix,Arizona
+85017,AZ,33.514092,-112.12285,Phoenix,Arizona
+85018,AZ,33.498076,-111.98603,Phoenix,Arizona
+85019,AZ,33.511992,-112.14170,Phoenix,Arizona
+85020,AZ,33.563663,-112.05519,Phoenix,Arizona
+85021,AZ,33.559437,-112.09281,Phoenix,Arizona
+85022,AZ,33.630497,-112.05210,Phoenix,Arizona
+85023,AZ,33.638271,-112.09341,Phoenix,Arizona
+85024,AZ,33.675564,-112.04717,Phoenix,Arizona
+85027,AZ,33.698731,-112.11429,New River Stage,Arizona
+85028,AZ,33.585037,-112.00815,Phoenix,Arizona
+85029,AZ,33.598841,-112.12023,Phoenix,Arizona
+85031,AZ,33.493496,-112.17108,Phoenix,Arizona
+85032,AZ,33.624140,-112.00416,Phoenix,Arizona
+85033,AZ,33.496091,-112.21405,Phoenix,Arizona
+85034,AZ,33.437772,-112.02810,Phoenix,Arizona
+85035,AZ,33.472492,-112.18750,Phoenix,Arizona
+85037,AZ,33.493006,-112.25539,Phoenix,Arizona
+85040,AZ,33.393323,-112.02857,Phoenix,Arizona
+85041,AZ,33.386995,-112.10076,Phoenix,Arizona
+85043,AZ,33.435405,-112.20009,Phoenix,Arizona
+85044,AZ,33.333591,-111.99246,Phoenix,Arizona
+85045,AZ,33.299740,-112.09812,Phoenix,Arizona
+85048,AZ,33.302098,-112.02477,Phoenix,Arizona
+85050,AZ,33.683603,-111.99271,Phoenix,Arizona
+85051,AZ,33.559783,-112.13361,Phoenix,Arizona
+85053,AZ,33.629911,-112.13122,Phoenix,Arizona
+85054,AZ,33.689558,-111.96463,Phoenix,Arizona
+85085,AZ,33.777760,-112.07945,Phoenix,Arizona
+85086,AZ,33.831866,-112.06339,Phoenix,Arizona
+85087,AZ,33.921493,-112.09992,New River,Arizona
+850HH,AZ,33.419444,-112.05787,city-latitude-112.05787,Arizona
+85201,AZ,33.432177,-111.84701,Mesa,Arizona
+85202,AZ,33.381097,-111.87560,Mesa,Arizona
+85203,AZ,33.437493,-111.80600,Mesa,Arizona
+85204,AZ,33.400127,-111.78594,Mesa,Arizona
+85205,AZ,33.426932,-111.71686,Mesa,Arizona
+85206,AZ,33.400306,-111.72452,Mesa,Arizona
+85207,AZ,33.436767,-111.64338,Mesa,Arizona
+85208,AZ,33.393967,-111.64302,Mesa,Arizona
+85210,AZ,33.391233,-111.84129,Mesa,Arizona
+85212,AZ,33.350350,-111.64535,Mesa,Arizona
+85213,AZ,33.434192,-111.76892,Mesa,Arizona
+85215,AZ,33.479868,-111.69350,Mesa,Arizona
+85219,AZ,33.402969,-111.46337,Gold Canyon,Arizona
+85220,AZ,33.416083,-111.57620,Apache Junction,Arizona
+85221,AZ,33.126134,-111.90545,Bapchule,Arizona
+85222,AZ,32.878138,-111.73499,Eleven Mile Corn,Arizona
+85223,AZ,32.749664,-111.68022,Arizona City,Arizona
+85224,AZ,33.328951,-111.87350,Chandler,Arizona
+85225,AZ,33.316349,-111.83064,Chandler,Arizona
+85226,AZ,33.312208,-111.93177,Chandler,Arizona
+85228,AZ,32.967829,-111.52617,Coolidge,Arizona
+85230,AZ,32.742949,-111.78945,Casa Grande,Arizona
+85231,AZ,32.712323,-111.57673,Eloy,Arizona
+85232,AZ,32.961615,-111.31629,Florence,Arizona
+85233,AZ,33.348593,-111.80833,Gilbert,Arizona
+85234,AZ,33.363440,-111.75093,Gilbert,Arizona
+85235,AZ,32.995762,-110.78040,Hayden,Arizona
+85236,AZ,33.305783,-111.70835,Higley,Arizona
+85237,AZ,33.099770,-110.97202,Kearny,Arizona
+85239,AZ,32.989261,-112.11505,Mobile,Arizona
+85241,AZ,32.712136,-111.49949,Picacho,Arizona
+85242,AZ,33.227266,-111.61087,Arizona Boys Ran,Arizona
+85245,AZ,32.623115,-111.37672,Red Rock,Arizona
+85247,AZ,33.107581,-111.75128,Sacaton,Arizona
+85248,AZ,33.239097,-111.86355,Sun Lakes,Arizona
+85249,AZ,33.237229,-111.80040,Chandler,Arizona
+85250,AZ,33.521433,-111.90944,Scottsdale,Arizona
+85251,AZ,33.494152,-111.92079,Scottsdale,Arizona
+85253,AZ,33.544596,-111.95645,Paradise Valley,Arizona
+85254,AZ,33.617504,-111.95416,Scottsdale,Arizona
+85255,AZ,33.697268,-111.88321,Scottsdale,Arizona
+85256,AZ,33.491302,-111.83509,Scottsdale,Arizona
+85257,AZ,33.467347,-111.91741,Scottsdale,Arizona
+85258,AZ,33.566635,-111.89337,Scottsdale,Arizona
+85259,AZ,33.596995,-111.82628,Scottsdale,Arizona
+85260,AZ,33.606004,-111.88699,Scottsdale,Arizona
+85262,AZ,33.798581,-111.87080,Scottsdale,Arizona
+85263,AZ,33.722594,-111.67915,Rio Verde,Arizona
+85264,AZ,33.617643,-111.67554,Fort Mcdowell,Arizona
+85268,AZ,33.604811,-111.72852,Fountain Hills,Arizona
+85272,AZ,32.852769,-111.97564,Stanfield,Arizona
+85273,AZ,33.285910,-111.11015,Superior,Arizona
+85281,AZ,33.426885,-111.92733,Tempe,Arizona
+85282,AZ,33.394067,-111.92873,Tempe,Arizona
+85283,AZ,33.365951,-111.93155,Tempe,Arizona
+85284,AZ,33.338333,-111.92962,Tempe,Arizona
+85292,AZ,32.945838,-110.72198,Winkelman,Arizona
+85296,AZ,33.319722,-111.76078,Gilbert,Arizona
+852HH,AZ,33.485105,-111.75827,city-latitude-111.75827,Arizona
+852XX,AZ,33.135317,-111.41168,city-latitude-111.41168,Arizona
+85301,AZ,33.534128,-112.17670,Glendale,Arizona
+85302,AZ,33.568143,-112.17699,Glendale,Arizona
+85303,AZ,33.528166,-112.22189,Glendale,Arizona
+85304,AZ,33.594069,-112.17531,Glendale,Arizona
+85305,AZ,33.529373,-112.25225,Glendale,Arizona
+85306,AZ,33.624546,-112.17670,Glendale,Arizona
+85307,AZ,33.529314,-112.30607,Luke Afb,Arizona
+85308,AZ,33.657722,-112.17825,Glendale,Arizona
+85309,AZ,33.533985,-112.37688,Luke Afb,Arizona
+85310,AZ,33.701173,-112.17614,Glendale,Arizona
+85320,AZ,33.945183,-113.19837,Aguila,Arizona
+85321,AZ,32.331853,-112.78694,Why,Arizona
+85322,AZ,33.274422,-112.78934,Arlington,Arizona
+85323,AZ,33.454441,-112.32401,Avondale,Arizona
+85324,AZ,34.108650,-112.10088,Rock Springs,Arizona
+85325,AZ,33.946064,-113.95370,Bouse,Arizona
+85326,AZ,33.354418,-112.56941,Buckeye,Arizona
+85328,AZ,33.326956,-114.68562,Cibola,Arizona
+85329,AZ,33.431242,-112.29588,Cashion,Arizona
+85331,AZ,33.789204,-111.96301,Cave Creek,Arizona
+85332,AZ,34.177939,-112.93070,Congress,Arizona
+85333,AZ,32.921712,-113.45703,Dateland,Arizona
+85334,AZ,33.631915,-114.49095,Ehrenberg,Arizona
+85335,AZ,33.596823,-112.32364,El Mirage,Arizona
+85336,AZ,32.532458,-114.78056,Gadsden,Arizona
+85337,AZ,32.971684,-112.79460,Gila Bend,Arizona
+85338,AZ,33.430922,-112.38482,Goodyear,Arizona
+85339,AZ,33.352795,-112.16752,Laveen,Arizona
+85340,AZ,33.508350,-112.40523,Litchfield Park,Arizona
+85342,AZ,33.939162,-112.49976,Morristown,Arizona
+85344,AZ,34.100704,-114.30462,Empire Landing,Arizona
+85345,AZ,33.573602,-112.23984,Peoria,Arizona
+85346,AZ,33.654343,-114.23325,Quartzsite,Arizona
+85347,AZ,32.744976,-113.85421,Roll,Arizona
+85348,AZ,33.730443,-113.62376,Salome,Arizona
+85349,AZ,32.494054,-114.77866,San Luis,Arizona
+85350,AZ,32.581930,-114.71199,Somerton,Arizona
+85351,AZ,33.606420,-112.28316,Sun City,Arizona
+85353,AZ,33.426423,-112.28299,Tolleson,Arizona
+85354,AZ,33.452432,-113.01652,Tonopah,Arizona
+85355,AZ,33.569705,-112.44792,Waddell,Arizona
+85356,AZ,32.676125,-114.13546,Wellton,Arizona
+85357,AZ,33.843519,-113.53441,Wenden,Arizona
+85360,AZ,34.681394,-113.59350,Wikieup,Arizona
+85361,AZ,33.739904,-112.59778,Wittmann,Arizona
+85362,AZ,34.286193,-112.69667,Yarnell,Arizona
+85363,AZ,33.588225,-112.30263,Youngtown,Arizona
+85364,AZ,32.704499,-114.64644,Yuma,Arizona
+85365,AZ,32.700018,-114.52671,Yuma Proving Gro,Arizona
+85367,AZ,32.654701,-114.40884,Yuma,Arizona
+85373,AZ,33.661560,-112.28931,Sun City,Arizona
+85374,AZ,33.643508,-112.38502,Surprise,Arizona
+85375,AZ,33.683352,-112.36474,Sun City West,Arizona
+85379,AZ,33.616888,-112.40158,Surprise,Arizona
+85381,AZ,33.608640,-112.22791,Peoria,Arizona
+85382,AZ,33.689869,-112.24838,Peoria,Arizona
+85390,AZ,33.961122,-112.76952,Wickenburg,Arizona
+853HH,AZ,33.543563,-112.31370,city-latitude-112.31370,Arizona
+853XX,AZ,33.511284,-113.40508,city-latitude-113.40508,Arizona
+85501,AZ,33.534570,-110.75681,Globe,Arizona
+85530,AZ,33.053797,-110.22921,Bylas,Arizona
+85531,AZ,32.872122,-109.79267,Central,Arizona
+85533,AZ,33.122043,-109.28410,Clifton,Arizona
+85534,AZ,32.731748,-109.11471,Franklin,Arizona
+85535,AZ,32.963028,-109.91803,Eden,Arizona
+85536,AZ,33.028740,-109.98719,Fort Thomas,Arizona
+85539,AZ,33.383937,-110.90026,Miami,Arizona
+85540,AZ,33.044523,-109.32904,Morenci,Arizona
+85541,AZ,34.243578,-111.28137,Payson,Arizona
+85542,AZ,33.262553,-110.52310,Peridot,Arizona
+85543,AZ,32.903750,-109.84995,Pima,Arizona
+85544,AZ,34.394226,-111.46865,Strawberry,Arizona
+85545,AZ,33.624008,-111.01062,Roosevelt,Arizona
+85546,AZ,32.800222,-109.69052,Safford,Arizona
+85550,AZ,33.372140,-110.11686,San Carlos,Arizona
+85552,AZ,32.816055,-109.76487,Thatcher,Arizona
+85553,AZ,33.830708,-111.30102,Tonto Basin,Arizona
+85554,AZ,34.093715,-110.96487,Young,Arizona
+855HH,AZ,33.199876,-110.43418,city-latitude-110.43418,Arizona
+855XX,AZ,32.789949,-109.51320,city-latitude-109.51320,Arizona
+85601,AZ,31.579152,-111.33413,Arivaca,Arizona
+85602,AZ,32.010164,-110.31820,Benson,Arizona
+85603,AZ,31.406229,-109.89580,Bisbee,Arizona
+85605,AZ,32.314118,-109.46196,Bowie,Arizona
+85606,AZ,32.054694,-109.81342,Cochise,Arizona
+85607,AZ,31.382775,-109.55035,Douglas,Arizona
+85608,AZ,31.569536,-109.23407,Douglas,Arizona
+85609,AZ,32.036365,-110.04581,Dragoon,Arizona
+85610,AZ,31.724946,-109.64646,Elfrida,Arizona
+85611,AZ,31.588594,-110.51857,Elgin,Arizona
+85613,AZ,31.541437,-110.30004,Fort Huachuca,Arizona
+85614,AZ,31.857504,-111.00904,Green Valley,Arizona
+85615,AZ,31.429017,-110.23013,Hereford,Arizona
+85616,AZ,31.684819,-110.34743,Huachuca City,Arizona
+85617,AZ,31.536321,-109.67608,Mc Neal,Arizona
+85618,AZ,32.708740,-110.63925,Mammoth,Arizona
+85619,AZ,32.441496,-110.75682,Mount Lemmon,Arizona
+85621,AZ,31.377370,-110.92640,Nogales,Arizona
+85623,AZ,32.625543,-110.77201,Oracle,Arizona
+85624,AZ,31.504439,-110.70794,Patagonia,Arizona
+85625,AZ,31.911838,-109.77230,Pearce,Arizona
+85627,AZ,32.098810,-110.09917,Pomerene,Arizona
+85629,AZ,31.939718,-110.97527,Sahuarita,Arizona
+85630,AZ,31.898039,-110.21803,Saint David,Arizona
+85631,AZ,32.597198,-110.60293,San Manuel,Arizona
+85632,AZ,32.048448,-109.19635,Portal,Arizona
+85633,AZ,31.632739,-111.49066,Sasabe,Arizona
+85634,AZ,31.998543,-111.93712,Pisinemo,Arizona
+85635,AZ,31.562546,-110.24288,Sierra Vista,Arizona
+85637,AZ,31.733433,-110.66869,Sonoita,Arizona
+85638,AZ,31.714525,-110.06684,Tombstone,Arizona
+85639,AZ,31.773676,-111.76494,Topawa,Arizona
+85640,AZ,31.586392,-111.04160,Amado,Arizona
+85641,AZ,32.001960,-110.67442,Vail,Arizona
+85643,AZ,32.356537,-109.88461,Willcox,Arizona
+85645,AZ,31.718671,-111.09908,Amado,Arizona
+85646,AZ,31.623432,-111.06352,Tubac,Arizona
+85648,AZ,31.488579,-110.98926,Rio Rico,Arizona
+85650,AZ,31.492003,-110.24699,Sierra Vista,Arizona
+85653,AZ,32.454488,-111.26232,Marana,Arizona
+85654,AZ,32.417221,-111.17135,Rillito,Arizona
+856HH,AZ,32.131960,-109.87159,city-latitude-109.87159,Arizona
+85701,AZ,32.216743,-110.96960,Tucson,Arizona
+85704,AZ,32.327640,-110.98801,Casas Adobes,Arizona
+85705,AZ,32.260316,-110.98534,Tucson,Arizona
+85706,AZ,32.128649,-110.92497,Tucson,Arizona
+85708,AZ,32.196846,-110.89189,Tucson,Arizona
+85710,AZ,32.213291,-110.82559,Tucson,Arizona
+85711,AZ,32.216326,-110.88511,Tucson,Arizona
+85712,AZ,32.249551,-110.88780,Tucson,Arizona
+85713,AZ,32.194909,-110.97570,Tucson,Arizona
+85714,AZ,32.170277,-110.95525,Tucson,Arizona
+85715,AZ,32.247175,-110.82864,Tucson,Arizona
+85716,AZ,32.242275,-110.92533,Tucson,Arizona
+85718,AZ,32.313460,-110.92282,Tucson,Arizona
+85719,AZ,32.240625,-110.94791,Tucson,Arizona
+85730,AZ,32.179227,-110.81032,Tucson,Arizona
+85735,AZ,32.139180,-111.23968,Tucson,Arizona
+85736,AZ,31.979764,-111.29398,Tucson,Arizona
+85737,AZ,32.417144,-110.96354,Oro Valley,Arizona
+85739,AZ,32.521096,-110.90870,Tucson,Arizona
+85741,AZ,32.338126,-111.04259,Tucson,Arizona
+85742,AZ,32.385588,-111.05582,Tucson,Arizona
+85743,AZ,32.335122,-111.14888,Tucson,Arizona
+85745,AZ,32.242724,-111.02090,Tucson,Arizona
+85746,AZ,32.126223,-111.04599,Tucson,Arizona
+85747,AZ,32.109302,-110.77573,Tucson,Arizona
+85748,AZ,32.216926,-110.76851,Tucson,Arizona
+85749,AZ,32.299275,-110.74419,Tucson,Arizona
+85750,AZ,32.292078,-110.84384,Tucson,Arizona
+85901,AZ,34.271427,-110.03676,Show Low,Arizona
+85911,AZ,34.102913,-110.55639,Cibecue,Arizona
+85920,AZ,33.836157,-109.19785,Alpine,Arizona
+85922,AZ,33.681485,-109.24946,Blue,Arizona
+85923,AZ,34.364618,-110.29487,Clay Springs,Arizona
+85924,AZ,34.448733,-109.71140,Concho,Arizona
+85925,AZ,34.109777,-109.34532,Eagar,Arizona
+85926,AZ,34.074253,-109.86356,Fort Apache,Arizona
+85927,AZ,33.801744,-109.58336,Greer,Arizona
+85928,AZ,34.563994,-110.55929,Heber,Arizona
+85929,AZ,34.162407,-109.99520,Lakeside,Arizona
+85930,AZ,34.044210,-109.73709,Mcnary,Arizona
+85931,AZ,34.393887,-110.83591,Forest Lakes,Arizona
+85932,AZ,33.927014,-109.22149,Nutrioso,Arizona
+85933,AZ,34.392829,-110.52048,Overgaard,Arizona
+85934,AZ,34.270743,-110.26032,Pinedale,Arizona
+85935,AZ,34.121008,-109.91503,Pinetop,Arizona
+85936,AZ,34.558663,-109.40254,Saint Johns,Arizona
+85937,AZ,34.560896,-110.03633,Snowflake,Arizona
+85938,AZ,34.094597,-109.22291,Springerville,Arizona
+85939,AZ,34.442667,-110.09181,Taylor,Arizona
+85940,AZ,34.268984,-109.67514,Vernon,Arizona
+85941,AZ,33.849439,-110.03334,Whiteriver,Arizona
+85942,AZ,34.778649,-109.96697,Woodruff,Arizona
+86001,AZ,35.279872,-111.72256,Flagstaff,Arizona
+86004,AZ,35.253002,-111.44851,Flagstaff,Arizona
+86015,AZ,35.235694,-111.83000,Bellemont,Arizona
+86016,AZ,35.675689,-111.49474,Gray Mountain,Arizona
+86017,AZ,34.937200,-111.62931,Munds Park,Arizona
+86018,AZ,35.197566,-111.93253,Parks Community Post Office,Arizona
+86020,AZ,36.182818,-111.54720,Cameron,Arizona
+86021,AZ,36.985868,-112.97910,Colorado City,Arizona
+86022,AZ,36.844685,-112.47107,Fredonia,Arizona
+86023,AZ,35.862292,-112.06498,Grand Canyon,Arizona
+86024,AZ,34.690846,-111.16676,Happy Jack,Arizona
+86025,AZ,34.936261,-110.14698,Holbrook,Arizona
+86030,AZ,36.115339,-110.61562,Hotevilla,Arizona
+86031,AZ,35.480410,-110.09228,Indian Wells,Arizona
+86032,AZ,35.101925,-110.42509,Joseph City,Arizona
+86033,AZ,36.608485,-110.18425,Kayenta,Arizona
+86034,AZ,35.765669,-110.18617,Keams Canyon,Arizona
+86035,AZ,35.335107,-110.99972,Leupp,Arizona
+86036,AZ,36.618595,-111.85444,Marble Canyon,Arizona
+86039,AZ,36.000590,-110.52010,Kykotsmovi Villa,Arizona
+86040,AZ,36.726377,-111.42840,Greenehaven,Arizona
+86042,AZ,35.835642,-110.36628,Polacca,Arizona
+86043,AZ,35.777227,-110.50131,Second Mesa,Arizona
+86044,AZ,36.507554,-110.86804,Tonalea,Arizona
+86045,AZ,36.061184,-111.06828,Tuba City,Arizona
+86046,AZ,35.378832,-112.23657,Williams,Arizona
+86047,AZ,35.258309,-110.53128,Winslow,Arizona
+86052,AZ,36.499283,-112.23039,North Rim,Arizona
+86053,AZ,36.556111,-111.10495,Kaibito,Arizona
+86054,AZ,36.630103,-110.65072,Shonto,Arizona
+860HH,AZ,36.207136,-112.32836,city-latitude-112.32836,Arizona
+860XX,AZ,36.047645,-112.90449,city-latitude-112.90449,Arizona
+86301,AZ,34.589477,-112.44726,Prescott,Arizona
+86303,AZ,34.515939,-112.45399,Groom Creek,Arizona
+86305,AZ,34.700620,-112.63753,Prescott,Arizona
+86314,AZ,34.621743,-112.32176,Prescott Valley,Arizona
+86320,AZ,35.178163,-112.56465,Ash Fork,Arizona
+86321,AZ,34.543627,-113.11473,Bagdad,Arizona
+86322,AZ,34.556478,-111.84375,Camp Verde,Arizona
+86323,AZ,34.765452,-112.45931,Chino Valley,Arizona
+86324,AZ,34.767841,-112.06438,Clarkdale,Arizona
+86325,AZ,34.718836,-111.90168,Cornville,Arizona
+86326,AZ,34.723788,-112.01002,Cottonwood,Arizona
+86327,AZ,34.533237,-112.20644,Dewey,Arizona
+86331,AZ,34.744280,-112.14586,Jerome,Arizona
+86332,AZ,34.426513,-112.62610,Kirkland,Arizona
+86333,AZ,34.339938,-112.13612,Mayer,Arizona
+86334,AZ,34.910591,-112.46252,Paulden,Arizona
+86335,AZ,34.653475,-111.75103,Rimrock,Arizona
+86336,AZ,34.876638,-111.80666,Sedona,Arizona
+86337,AZ,35.334394,-113.05774,Seligman,Arizona
+86338,AZ,34.557983,-112.70556,Skull Valley,Arizona
+86343,AZ,34.201191,-112.35010,Crown King,Arizona
+86351,AZ,34.782453,-111.76764,Sedona,Arizona
+86401,AZ,35.259250,-113.95225,Kingman,Arizona
+86403,AZ,34.483582,-114.33694,Desert Hills,Arizona
+86404,AZ,34.546899,-114.32546,Lake Havasu City,Arizona
+86406,AZ,34.469945,-114.27861,Lake Havasu City,Arizona
+86413,AZ,35.190896,-114.24036,Golden Valley,Arizona
+86426,AZ,35.013495,-114.58524,Fort Mohave,Arizona
+86429,AZ,35.172854,-114.54696,Bullhead City,Arizona
+86430,AZ,35.256802,-114.49451,Bullhead City,Arizona
+86431,AZ,35.413284,-114.21626,Chloride,Arizona
+86432,AZ,36.903232,-113.94024,Littlefield,Arizona
+86433,AZ,35.030577,-114.38928,Oatman,Arizona
+86434,AZ,35.482227,-113.51210,Peach Springs,Arizona
+86435,AZ,36.198652,-112.51013,Supai,Arizona
+86436,AZ,34.782526,-114.46630,Topock,Arizona
+86437,AZ,35.386906,-113.66065,Valentine,Arizona
+86438,AZ,34.805546,-114.14175,Yucca,Arizona
+86440,AZ,34.888406,-114.57354,Mohave Valley,Arizona
+86441,AZ,35.607935,-114.30203,Dolan Springs,Arizona
+86442,AZ,35.097719,-114.59734,Bullhead City,Arizona
+86444,AZ,35.950442,-114.07783,Meadview,Arizona
+864HH,AZ,35.151163,-114.57163,city-latitude-114.57163,Arizona
+864XX,AZ,35.108881,-113.94609,city-latitude-113.94609,Arizona
+86502,AZ,35.213287,-109.54223,Chambers,Arizona
+86503,AZ,36.165779,-109.61956,Chinle,Arizona
+86504,AZ,35.771067,-109.17878,Fort Defiance,Arizona
+86505,AZ,35.665344,-109.65344,Ganado,Arizona
+86506,AZ,35.368902,-109.22194,Houck,Arizona
+86507,AZ,36.423229,-109.29689,Lukachukai,Arizona
+86508,AZ,35.325261,-109.07847,Lupton,Arizona
+86510,AZ,36.110934,-110.20181,Pinon,Arizona
+86511,AZ,35.610285,-109.20930,Saint Michaels,Arizona
+86512,AZ,35.156320,-109.32309,Sanders,Arizona
+86514,AZ,36.880920,-109.33634,Teec Nos Pos,Arizona
+86515,AZ,35.672842,-109.06495,Window Rock,Arizona
+86520,AZ,36.045603,-110.00633,Blue Gap,Arizona
+86535,AZ,36.798893,-109.86488,Dennehotso,Arizona
+86538,AZ,36.374317,-109.60070,Many Farms,Arizona
+86540,AZ,35.952827,-109.41297,Nazlini,Arizona
+86544,AZ,36.595590,-109.11872,Red Valley,Arizona
+86545,AZ,36.662243,-109.59931,Rock Point,Arizona
+86547,AZ,36.494915,-109.45613,Round Rock,Arizona
+86549,AZ,35.958014,-109.17551,Sawmill,Arizona
+86556,AZ,36.272262,-109.17516,Tsaile,Arizona
+87328,AZ,35.923348,-109.08296,Navajo,Arizona
+89024,AZ,36.789432,-114.01042,Mesquite,Arizona
