@@ -1,3 +1,3 @@
-zip code, state abbreviation, latitude, longitude, city, state
-35004, AL,  33.606379,  -86.50249, Moody, Alabama
-35005, AL,  33.592585,  -86.95969, Adamsville, Alabama
+zipcode,stateabbreviation,latitude,longitude,city,state
+35004,AL,33.606379,-86.50249,Moody,Alabama
+35005,AL,33.592585,-86.95969,Adamsville,Alabama
